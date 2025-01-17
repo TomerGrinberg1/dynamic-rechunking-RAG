@@ -1,0 +1,6 @@
+pinecone
+sentence_transformers
+datasets 
+polars
+nltk
+spacy
