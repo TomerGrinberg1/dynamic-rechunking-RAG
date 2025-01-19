@@ -51,10 +51,10 @@ class RetrievalService:
             to_upsert=[]
             print("create embeddings...")
             for key, value in tqdm(data.items()):
-                passage = value.get("passage", "")
+                passage =  f"passage: {value.get('passage','')}"
                 document_row = value.get("document_row", None)
                 passage_index = value.get("passage_index", None) 
-                if passage:
+                if value.get('passage',''):
                     embedding = self.model.encode(passage)
                 else:
                     embedding = None

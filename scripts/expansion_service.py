@@ -20,7 +20,7 @@ class ExpansionService:
         Retrieves the passages from a JSON structure using keys formatted as "<row_number>_<passage_number>", 
         then expands around passage_idx by +/- n_neighbors. Joins them into one big text string.
         """
-        with open("/home/tomer/dynamic-rechunking-RAG/data/passage_to_location.json", "r") as file:
+        with open("/home/tomer/learning/dynamic-rechunking-RAG/data/passage_to_location.json", "r") as file:
             all_passages = json.load(file)
 
         expanded_list = []
