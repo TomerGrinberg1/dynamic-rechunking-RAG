@@ -1,5 +1,6 @@
-venv/
+myenv/
 scripts/__pycache__/expansion_service.cpython-312.pyc
 scripts/__pycache__/ollama_interface.cpython-312.pyc
 scripts/__pycache__/Retrieval.cpython-312.pyc
-myenv/
+venv/
+data
