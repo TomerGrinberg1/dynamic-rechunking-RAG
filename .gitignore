@@ -4,3 +4,4 @@ scripts/__pycache__/ollama_interface.cpython-312.pyc
 scripts/__pycache__/Retrieval.cpython-312.pyc
 keys.yaml
 *.pyc
+venv/
