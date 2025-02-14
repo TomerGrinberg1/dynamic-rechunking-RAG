@@ -101,8 +101,8 @@ The evaluation determines if any real answers are included in the generated resp
 ## Summary of Findings
 
 - **Best Configuration:** k-NN with `k=5` achieved the highest accuracy:
-  - \*\*Lexical Matching:\*\*  10.6% vs. 33% baseline.
-  - **LLM-based Evaluation:** 12.4% vs. 41.8% baseline.
+  - **Lexical Matching:**  38.3% vs 10.6% vanilla RAG baseline.
+  - **LLM-based Evaluation:**  47.8% vs. 12.4% vanilla RAG baseline.
 - **Statistically Significant Gains:** p-values of \~0 for both methods.
 
 ## Future Work
