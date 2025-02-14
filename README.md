@@ -62,7 +62,7 @@ Evaluate the generated response against the real answers to compute accuracy.
    ```
 3. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/dynamic-rechunking-RAG.git
+   git clone https://github.com/TomerGrinberg1/dynamic-rechunking-RAG.git
    cd dynamic-rechunking-RAG
    ```
 
