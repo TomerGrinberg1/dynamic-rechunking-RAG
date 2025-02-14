@@ -1,0 +1,4596 @@
+[
+    {
+        "index": 0,
+        "query": "major blood vessels that carry blood away from the heart",
+        "llm_response": "- Arteries\n- Capillaries \n- Veins",
+        "real_answers": [
+            "the arteries"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 1,
+        "query": "where did the council of nicea take place",
+        "llm_response": "The First Council of Nicaea took place in Hagia Sophia, Constantinople (Istanbul), which was reasonably accessible to many delegates from various parts of Asia Minor.",
+        "real_answers": [
+            "in the central structure of the imperial palace at Nicaea"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 2,
+        "query": "who won american idol the year jennifer hudson",
+        "llm_response": "## Jennifer Hudson won American Idol in Season 3.",
+        "real_answers": [
+            "Fantasia Barrino"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 3,
+        "query": "who won the mayoral race in st petersburg",
+        "llm_response": "Rick Kriseman.",
+        "real_answers": [
+            "Incumbent Rick Kriseman"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 4,
+        "query": "when would the priest enter the holy of holies",
+        "llm_response": "The priest could only enter the Holy of Holies on Yom Kippur (the day of atonement).",
+        "real_answers": [
+            "once a year on Yom Kippur (the day of atonement)"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 5,
+        "query": "the mountain which is known as horst is",
+        "llm_response": "Feldberg.",
+        "real_answers": [
+            "a raised block of the Earth's crust that has lifted, or has remained stationary, while the land on either side has subsided"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 6,
+        "query": "who is the killer and then there were none",
+        "llm_response": "There are several killers in the book Agatha Christie's And Then There Were None, but the correct answers vary across different adaptations. Here are a few of them:\n\n1. In the original novel by Agatha Christie, the killer is not explicitly stated.\n2. In the 2005 video game adaptation, the player must discover that there are eight killers among the guests on the island.\n3. The majority of adaptations and sequels include Patrick Narracott as one of the main suspects, but his true identity remains a mystery throughout.\n4. In some adaptations, other characters like George Joseph Cvek \"The Gentleman Killer\" or Robert Anderson/Robert Buxton are also considered potential killers.\n\nPlease note that these answers are based on the passages provided and might not be exhaustive.",
+        "real_answers": [
+            "Emily Brent"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 7,
+        "query": "when did network rail take over from railtrack",
+        "llm_response": "Network Rail took over from Railtrack on 3 October 2002.",
+        "real_answers": [
+            "2002"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 8,
+        "query": "who plays the big monkey in the jungle book",
+        "llm_response": "Neel Sethi, Kendrick Reyes.",
+        "real_answers": [
+            "Christopher Walken"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 9,
+        "query": "who plays toby friend in switched at birth",
+        "llm_response": "Toby Bledsoe plays the role of Emmett.",
+        "real_answers": [
+            "Wilkie"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 10,
+        "query": "what is the difference between indonesian and malay",
+        "llm_response": "Indonesian refers to the standardized form spoken by people from Indonesia (Sumatra & West Kalimantan).\nMalay refers to the Malaysian standard of Malay.",
+        "real_answers": [
+            "spelling",
+            "grammar",
+            "pronunciation",
+            "vocabulary",
+            "predominant source of loanwords"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 11,
+        "query": "what was jackie gleason's wife's name on the jackie gleason show",
+        "llm_response": "Jacqueline Harris.",
+        "real_answers": [
+            "Alice"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 12,
+        "query": "what is the average age to get married in south africa",
+        "llm_response": "## 20 years \nAccording to the passage, \"Africa has a majority of age at first marriage between age of 15 until early twenties for women and early and late twenties for males.\"",
+        "real_answers": [
+            "30.5"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 13,
+        "query": "where is the diamond cutting industry located in india",
+        "llm_response": "Diamonds are cut and polished in Surat, India; Indian cities like Mumbai (e.g., Nariman Point) and Narsinh Colony, and Chinese cities of Guangzhou and Shenzhen.",
+        "real_answers": [
+            "Surat"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 14,
+        "query": "how many points for a field goal in rugby league",
+        "llm_response": "Three",
+        "real_answers": [
+            "one point"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 15,
+        "query": "who has the most championship rings in basketball",
+        "llm_response": "Michael Jordan holds the record with six championship rings.",
+        "real_answers": [
+            "Bill Russell"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 16,
+        "query": "who made the song help me make it through the night famous",
+        "llm_response": "Sammi Smith",
+        "real_answers": [
+            "Sammi Smith"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 17,
+        "query": "what bodies of water surround cabo san lucas",
+        "llm_response": "* Los Rojos de Cabo (Red Sea)\n* San Jos\u00e9 Bay\n* Gulf of California (also known as the Sea of Cortez)",
+        "real_answers": [
+            "the Pacific Ocean",
+            "the Gulf of California"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 18,
+        "query": "when does riverdale season 2 episode 15 come out",
+        "llm_response": "## Riverdale Season 2 Episode 15 has not been released yet.",
+        "real_answers": [
+            "March 14, 2018"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 19,
+        "query": "when was the rock and roll hall of fame built",
+        "llm_response": "The Rock and Roll Hall of Fame was established in 1983.",
+        "real_answers": [
+            "September 1995"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 20,
+        "query": "where do they live in the big bang theory",
+        "llm_response": "Leonard Hofstadter and Sheldon Cooper share an apartment; \nPenny lives across the hall.",
+        "real_answers": [
+            "Pasadena, California"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 21,
+        "query": "when does call me by your name take place",
+        "llm_response": "Call Me by Your Name takes place in Northern Italy in 1983.",
+        "real_answers": [
+            "1983"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 22,
+        "query": "where is the real housewives of orange county filmed",
+        "llm_response": "The Real Housewives of Orange County is primarily filmed in Orange County, California.",
+        "real_answers": [
+            "Orange County, California"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 23,
+        "query": "lake tahoe straddles the border between which two u.s. states",
+        "llm_response": "South Lake Tahoe and Stateline.",
+        "real_answers": [
+            "California",
+            "Nevada"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 24,
+        "query": "who was allowed citizenship in ancient greece and rome",
+        "llm_response": "Ancient Greece allowed:\n\n* Free-born citizens (cives)\n* Women with a certain level of social status and property rights \n* All free men, regardless of their birth or parentage \n\nAncient Rome allowed:\n\n* Free-born citizens (civis Romanus)",
+        "real_answers": [
+            "used as a tool of foreign policy and control. Colonies and political allies would be granted a \"minor\" form of Roman citizenship, there being several graduated levels of citizenship and legal rights (the Latin Right was one of them)"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 25,
+        "query": "secretary of state responsible for the successful negotiation of the washington naval treaty of 1922",
+        "llm_response": "Charles Evans Hughes.",
+        "real_answers": [
+            "Charles Evans Hughes"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 26,
+        "query": "who is the current lead singer of lynyrd skynyrd",
+        "llm_response": "Lynyrd Skynyrd does not have a current lead singer. The band's lead vocalist has been Johnny Colt since 2017, after Donald \"Ean\" Evans' death in 2015.",
+        "real_answers": [
+            "Rickey Medlocke"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 27,
+        "query": "who did sebastian's voice in the little mermaid",
+        "llm_response": "Samuel E. Wright is the voice of Sebastian in The Little Mermaid.",
+        "real_answers": [
+            "Samuel E. Wright"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 28,
+        "query": "who sang i've got the key i've got the secret",
+        "llm_response": "The song \"I've Got the Key, I've Got the Secret\" was performed by Melanie.",
+        "real_answers": [
+            "Urban Cookie Collective"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 29,
+        "query": "what is the brightest star in corona borealis",
+        "llm_response": "Alpha Coronae Borealis.",
+        "real_answers": [
+            "the magnitude 2.2 Alpha Coronae Borealis"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 30,
+        "query": "how many twitter followers does selena gomez have",
+        "llm_response": "## @selenagomez Selena Gomez 54 Musician and actress 16.",
+        "real_answers": [
+            "57"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 31,
+        "query": "what is the name of a young chicken",
+        "llm_response": "## Young chicken (pullet) \nIn the UK and Ireland, they are known as cocks.",
+        "real_answers": [
+            "chicks"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 32,
+        "query": "world wide accrediting commission of christian educational institutions",
+        "llm_response": "The Worldwide Accreditation Commission of Christian Educational Institutions (WACCEI) is a recognized accreditation agency for Christian educational institutions.",
+        "real_answers": [
+            "United States Department of Education"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 33,
+        "query": "when was the last time us went to moon",
+        "llm_response": "1972.",
+        "real_answers": [
+            "7 September 2013"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 34,
+        "query": "what is the full name of bb t bank",
+        "llm_response": "BB&T Bank's full name is The Bank of Tennessee, Inc.",
+        "real_answers": [
+            "Branch Banking and Trust Company"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 35,
+        "query": "who is the current lieutenant governor of washington",
+        "llm_response": "Cyrus Habib",
+        "real_answers": [
+            "Cyrus Habib"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 36,
+        "query": "who gets to keep the super bowl trophy",
+        "llm_response": "The winning team. They maintain permanent possession of the trophy, while it is sent back to Tiffany's for engraving with the names of participating teams and other details.",
+        "real_answers": [
+            "the winning team"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 37,
+        "query": "who owns the bridge from detroit to canada",
+        "llm_response": "The Ambassador Bridge is owned by Grosse Pointe billionaire Manuel Moroun through the Detroit International Bridge Company in the United States and the Canadian Transit Company.",
+        "real_answers": [
+            "Grosse Pointe billionaire Manuel Moroun through the Detroit International Bridge Company in the United States[4] and the Canadian Transit Company in Canada"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 38,
+        "query": "when does season 3 of serial come out",
+        "llm_response": "Season 3 is planned for release in 2024.",
+        "real_answers": [
+            "sometime in 2018"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 39,
+        "query": "who did the yankees play in 2009 world series",
+        "llm_response": "New York Yankees.",
+        "real_answers": [
+            "Philadelphia Phillies"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 40,
+        "query": "what's the name of the cat in kiki's delivery service",
+        "llm_response": "Jiji",
+        "real_answers": [
+            "Jiji"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 41,
+        "query": "who is the present chief election commission of india",
+        "llm_response": "## Om Prakash Rawat is the current Chief Election Commissioner of India. He was appointed in January 23, 2018.",
+        "real_answers": [
+            "Om Prakash Rawat"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 42,
+        "query": "where did the marshall tucker band get their name",
+        "llm_response": "The Marshall Tucker Band got their name from a blind piano tuner in Spartanburg, South Carolina.",
+        "real_answers": [
+            "a Spartanburg-area blind piano tuner"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 43,
+        "query": "which layer of the atmosphere is the ozone layer located",
+        "llm_response": "The ozone layer is located in the stratosphere.",
+        "real_answers": [
+            "stratosphere"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 44,
+        "query": "what teams are in the stanley cup playiffs",
+        "llm_response": "There are three teams participating in the Stanley Cup Playoffs:\n\n1. Washington Capitals \n2. Vegas Golden Knights",
+        "real_answers": [
+            "Washington Capitals",
+            "Vegas Golden Knights",
+            "Tampa Bay Lightning",
+            "Winnipeg Jets"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 45,
+        "query": "what does the winner of the voice receive",
+        "llm_response": "The winner receives a record deal with Universal Music and $50,000 cash for their education.",
+        "real_answers": [
+            "US$100,000 and a record deal with Universal Music Group"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 46,
+        "query": "who in the bible had the coat of many colors",
+        "llm_response": "The passage does not mention which person in the Bible owned the \"coat of many colors\". However, it is mentioned that Jacob favored Joseph and gave him the coat as a gift, leading to envy from his brothers.",
+        "real_answers": [
+            "Joseph"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 47,
+        "query": "where is guatemala city located on the map",
+        "llm_response": "Guatemala City is located between coordinates 14\u00b0 36\u2032 48'' N 90\u00b0 32\u2032 7'' W.",
+        "real_answers": [
+            "in the south-central part of the country, nestled in a mountain valley called Valle de la Ermita"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 48,
+        "query": "what was the turning point of world war 1",
+        "llm_response": "## The Battle of the Marne in August-September 1914 is considered a turning point of World War I.",
+        "real_answers": [
+            "The battle of the Marne"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 49,
+        "query": "which part of canada is closest to detroit",
+        "llm_response": "Kent County.",
+        "real_answers": [
+            "Windsor, Ontario"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 50,
+        "query": "who scored the most points in one nba basketball game",
+        "llm_response": "Elvin Hayes scored a game-high 40 points.",
+        "real_answers": [
+            "Wilt Chamberlain"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 51,
+        "query": "who is given the special gift of infallibility",
+        "llm_response": "## Pope",
+        "real_answers": [
+            "the Pope"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 52,
+        "query": "who played roo stewarts mum in home and away",
+        "llm_response": "## Martha Stewart",
+        "real_answers": [
+            "Alison Mulvaney"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 53,
+        "query": "how many episodes are there in attack on titan season one",
+        "llm_response": "## There are 12 episodes in Attack on Titan Season 1.",
+        "real_answers": [
+            "25"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 54,
+        "query": "first president of india to live in rashtrapati bhavan",
+        "llm_response": "Rajendra Prasad",
+        "real_answers": [
+            "Rajendra Prasad",
+            "the first President of India"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 55,
+        "query": "who sings the immigrant song in the girl with the dragon tattoo",
+        "llm_response": "##Karen O, of Yeah Yeah Yeahs sings the Led Zeppelin track \"Immigrant Song\" for the movie The Girl with the Dragon Tattoo soundtrack.",
+        "real_answers": [
+            "Karen O"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 56,
+        "query": "when did the first ford mustang came out",
+        "llm_response": "The first Ford Mustang was introduced on June 18, 1964.",
+        "real_answers": [
+            "March 1964"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 57,
+        "query": "what is the meaning of the name mildred",
+        "llm_response": "The name Mildred has multiple origins and meanings. Here are some possible interpretations:\n\n1. **Old English**: \"Mild\" means gentle or mild, and \"red\" (or \"rind\") refers to a red-haired person. In Old English, the name Mildred was likely derived from this combination.\n2. **Germanic**: In Germanic languages, such as Old High German and Gothic, \"mild\" and \"rind\" are related words that mean gentle or mild. The name Mildred may be an anglicized form of this word.\n3. **English surname**: Over time, the name Mildred evolved into a surname, likely derived from the English Old English word \"m\u012bld\", which is thought to be a combination of \"mild\" and \"hild\", meaning gentle or maiden.\n4. **Literary associations**: In literature, particularly in fantasy and science fiction, the name Mildred is often associated with cleverness, wit, and intelligence.\n\nIn terms of its history as a given name, Mildred was introduced to the United States during the mid-19th century, when German immigrants brought the name with them. It became popularized in the late 19th and early 20th centuries, particularly among the upper class and intellectuals.\n\nThroughout history, the name Mildred has undergone various interpretations and associations, reflecting its diverse origins and meanings.",
+        "real_answers": [
+            "\"gentle strength\""
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 58,
+        "query": "where did the plane carrying the marshall football team crash",
+        "llm_response": "The plane carrying the Marshall University Thundering Herd football team crashed in Colorado.",
+        "real_answers": [
+            "into a hill just short of the Tri-State Airport"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 59,
+        "query": "who is the inventor of post it notes",
+        "llm_response": "The inventors are Dr. Spencer Silver and Arthur Fry, both from 3M.",
+        "real_answers": [
+            "Dr. Spencer Silver"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 60,
+        "query": "who is the poet that wrote sonnet 43",
+        "llm_response": "There are two poems titled \"Sonnet 43\" attributed to Elizabeth Barrett Browning.",
+        "real_answers": [
+            "Elizabeth Barrett Browning"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 61,
+        "query": "how does california economy rank in the world",
+        "llm_response": "The U.S. Bureau of Economic Analysis reported that California's GDP was $2.751 trillion in 3rd quarter 2017.\n\nIf considered separately, California would rank as the fifth largest economy in the world.",
+        "real_answers": [
+            "fifth largest"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 62,
+        "query": "when did the first christmas tree come about",
+        "llm_response": "First Christmas tree trees were introduced in France (1840), Denmark (1808), and North America (1781) by different groups.",
+        "real_answers": [
+            "around 1600"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 63,
+        "query": "what port is associated with the dns service",
+        "llm_response": "Port 53 is associated with DNS (Domain Name System).",
+        "real_answers": [
+            "53"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 64,
+        "query": "what does fear of the lord mean catholic",
+        "llm_response": "## Fear of God from different perspectives:\n\n- **Simple and Servile Fear**: a lack of respect and awe, leading to servitude.\n- **Theological Perspective** : \n  - a joyful awareness of God's grandeur for true peace.\n  - A grateful realization that only in Him do hearts find peace.",
+        "real_answers": [
+            "the \"discipline\" or \"instruction\" of wisdom"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 65,
+        "query": "what nfl team has never made it to the superbowl",
+        "llm_response": "The answer is Detroit Lions",
+        "real_answers": [
+            "Cleveland Browns",
+            "Jacksonville Jaguars",
+            "Detroit Lions",
+            "Houston Texans"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 66,
+        "query": "who plays harry in the amazing spider-man 2",
+        "llm_response": "## None \nThere is no information about a character named Harry in The Amazing Spider-Man 2.",
+        "real_answers": [
+            "Dane William DeHaan"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 67,
+        "query": "what type of metamorphic rock is formed from limestone",
+        "llm_response": "A marble.",
+        "real_answers": [
+            "marble"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 68,
+        "query": "who was runner up in strictly come dancing in 2010",
+        "llm_response": "Kara Tointon and Artem Chigvintsev were the runners-up in Strictly Come Dancing in 2010.",
+        "real_answers": [
+            "Matt & Aliona"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 69,
+        "query": "where would the highest air pressure be measured",
+        "llm_response": "The locations for measuring high and low atmospheric pressures are:\n\n* Highest adjusted-to-sea level barometric pressure: Tosontsengel, Mongolia (above sea level)\n* Lowest non-tornadic atmospheric pressure: Typhoon Tip in the western Pacific Ocean (at sea level)",
+        "real_answers": [
+            "Tosontsengel, Mongolia"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 70,
+        "query": "what does thom yorke say at the end of daydreaming",
+        "llm_response": "Thom Yorke says \"that's it -- that is the sound of the record.\"",
+        "real_answers": [
+            "\"Half of my life\"",
+            "\"I've found my love\"",
+            "\"Every minute, half of my love\""
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 71,
+        "query": "who played the wife on the joey bishop show",
+        "llm_response": "Ellie Barnes was the wife of Joey Bishop in The Joey Bishop Show.",
+        "real_answers": [
+            "Abby Dalton"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 72,
+        "query": "where is the most wind power produced in the united states",
+        "llm_response": "The United States had over 82,183 MW of installed wind power capacity by January 2017.",
+        "real_answers": [
+            "Alta Wind Energy Center in California"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 73,
+        "query": "who is the narrator on who do you think you are",
+        "llm_response": "The narrator on \"Who Do You Think You Are?\" is unknown.",
+        "real_answers": [
+            "Phil Davis"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 74,
+        "query": "where did the term mother lode come from",
+        "llm_response": "The term \"Mother Lode\" probably came from a literal translation of the Spanish phrase \"veta madre,\" meaning \"mother earth.\"",
+        "real_answers": [
+            "a principal vein or zone of gold or silver ore"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 75,
+        "query": "what is the name of the uk flag",
+        "llm_response": "The national flag of the United Kingdom (UK) is known as the Union Jack.",
+        "real_answers": [
+            "Union Jack, also known as the Union Flag"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 76,
+        "query": "when does hanukkah end on the jewish calendar",
+        "llm_response": "Hanukkah ends on Tevet (3rd day) of Kislev.",
+        "real_answers": [
+            "2nd or 3rd day of Tevet"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 77,
+        "query": "when do dr shepherd and meredith get married",
+        "llm_response": "Derek Shepherd and Meredith Grey got married at the end of Season 5.",
+        "real_answers": [
+            "2009"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 78,
+        "query": "who are the largest employers in the uk",
+        "llm_response": "Royal Mail, G4S, Tesco and Compass Group are the largest UK employers.",
+        "real_answers": [
+            "NHS"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 79,
+        "query": "legislation to prohibit segregation in all public accommodations was",
+        "llm_response": "##Passage 1-3",
+        "real_answers": [
+            "The Civil Rights Act of 1964 (Pub.L. 88\u2013352, 78 Stat. 241, enacted July 2, 1964)"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 80,
+        "query": "which technique was used in the 1933 film king kong to create the special effects",
+        "llm_response": "Stop-motion animation and matte painting.",
+        "real_answers": [
+            "King Kong is well known for its groundbreaking use of special effects, such as stop-motion animation, matte painting, rear projection and miniatures, all of which were conceived decades before the digital age."
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 81,
+        "query": "avenue of hyde park uks first artificially lit highway",
+        "llm_response": "Hyde Park's Avenue was created in 1690, making it Britain's first artificially lit highway.",
+        "real_answers": [
+            "Rotten Row"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 82,
+        "query": "who played eddie in leave it to beaver",
+        "llm_response": "David Seville played Eddie Haskell in \"Leave It to Beaver\".",
+        "real_answers": [
+            "Kenneth Charles \"Ken\" Osmond"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 83,
+        "query": "who won the mayoral race in new orleans 2017",
+        "llm_response": "LaToya Cantrell",
+        "real_answers": [
+            "LaToya Cantrell"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 84,
+        "query": "where was the first railway line laid in india",
+        "llm_response": "## All India Railway system began with the following lines:\n\n1. Allahabad-Kanpur (1859)\n2. Bombay-Calcutta\n3. Assam and Bengal's initial railway line, which came to Assam in \n               1881.\n4. Dibrugarh-Margarita",
+        "real_answers": [
+            "from Red Hills to Chintadripet bridge in Madras"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 85,
+        "query": "where does the name iron maiden come from",
+        "llm_response": "The name \"Iron Maiden\" comes from a New Year's Eve 1978 demo recorded at Spaceward Studios in Cambridge, which featured four songs.",
+        "real_answers": [
+            "iron maiden torture device"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 86,
+        "query": "who won the world series last year in 2017",
+        "llm_response": "The Houston Astros won the 2017 World Series.",
+        "real_answers": [
+            "Houston Astros"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 87,
+        "query": "where was pirates of the caribbean dead man tells no tale filmed",
+        "llm_response": "##The Shanghai Disney Resort in China.",
+        "real_answers": [
+            "Australia"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 88,
+        "query": "where did the currie cup get its name",
+        "llm_response": "The Currie Cup got its name from Sir Henry St John Wills III (1869-1926), a British explorer and colonial administrator.",
+        "real_answers": [
+            "Sir Donald Currie"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 89,
+        "query": "what is the function of mitochondrion in a plant cell",
+        "llm_response": "Mitochondria in a plant cell primarily function to supply cellular energy through ATP production, but they also play roles in other tasks such as signaling, differentiation, and maintaining control over cell growth.",
+        "real_answers": [
+            "cellular energy",
+            "signaling",
+            "cellular differentiation",
+            "cell death",
+            "cell cycle",
+            "cell growth"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 90,
+        "query": "when was the last time the olympics were held in usa",
+        "llm_response": "2018 Summer Olympics, specifically the events took place from July 21 to August 6.",
+        "real_answers": [
+            "2002 Winter Olympics"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 91,
+        "query": "when was the metric system introduced in australia",
+        "llm_response": "All primary schools in Australia were teaching both the metric and imperial systems after changes made by the Metrication Act of 1972.",
+        "real_answers": [
+            "1966"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 92,
+        "query": "which part of a cashew flower becomes its fruits",
+        "llm_response": "##The pedicel and the receptacle.",
+        "real_answers": [
+            "the pedicel and the receptacle of the cashew flower"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 93,
+        "query": "when was how much land does a man need written",
+        "llm_response": "The passage you provided does not mention when \"How Much Land Does a Man Need?\" was written. However, it appears to be an article or collection of articles from Wikipedia, specifically related to the topic of population and environmental issues.",
+        "real_answers": [
+            "1886"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 94,
+        "query": "what are the time zones of the usa",
+        "llm_response": "## Eastern Standard Time Zones:\n\n1. Zone R - Connecticut, Florida, District of Columbia, Delaware, Georgia, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Tennessee, Virginia\n2. Zone Q - Arizona (except Navajo Nation)\n3. Zone U - Alaska, Hawaii\n4. Zone CST - Colorado, Idaho, Kansas, Montana, Nebraska, New Mexico, Oklahoma, South Dakota, Utah, Wyoming\n\n## Central Standard Time Zones:\n\n1. Zone R - Connecticut, Florida, District of Columbia, Delaware, Georgia, Indiana, Kentucky, Maine, Michigan, Minnesota, Mississippi, Missouri, North Carolina, Ohio, Pennsylvania\n2. Zone U - Alaska (except Hawaii)\n3. Zone CST - Arkansas, Illinois, Kansas, Louisiana, Nebraska, New Mexico, Texas\n\n## Mountain Standard Time Zones:\n\n1. Zone R - Colorado, Idaho, Montana, Wyoming\n\n## Pacific Standard Time Zones:\n\n1. Zone U - Arizona (except Navajo Nation), California\n2. Zone CST - Nevada\n3. Zone CDT - Idaho",
+        "real_answers": [
+            "The Atlantic standard time zone",
+            "The Eastern standard time zone",
+            "The Central standard time zone",
+            "The Mountain standard time zone",
+            "The Pacific standard time zone",
+            "The Alaska standard time zone",
+            "The Hawaii\u2013Aleutian standard time zone",
+            "The Samoa standard time zone",
+            "The Chamorro standard time zone"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 95,
+        "query": "what is the scientific name of vitamin b3",
+        "llm_response": "## Vitamin B3\n The scientific name of Vitamin B3 is Niacin.",
+        "real_answers": [
+            "niacin"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 96,
+        "query": "when was the liberal party of canada formed",
+        "llm_response": "The Liberal Party of Canada was formed in 1861.",
+        "real_answers": [
+            "1861"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 97,
+        "query": "who is the next person to be executed in the united states",
+        "llm_response": "There is no information provided about an upcoming execution scheduled for 2023. The most recent date mentioned is as of October 30, 2018, and executions have already occurred since then, with 19 people having been executed by lethal injection in the United States in 2018.",
+        "real_answers": [
+            "Robert Moreno Ramos"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 98,
+        "query": "what episode of jonas la does nick sing your biggest fan",
+        "llm_response": "Nick Jonas sings \"Your Biggest Fan\" in Episode 6 of Jonas L.A.",
+        "real_answers": [
+            "6"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 99,
+        "query": "when was the titanic meant to reach new york",
+        "llm_response": "Titanic sailed past New York Pier 54.",
+        "real_answers": [
+            "the morning of 17 April"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 100,
+        "query": "who is the most paid nba player 2018",
+        "llm_response": "## Step 1: Identify the top-paid players in the NBA for 2017-2018.\nIn 2017-2018, some of the top-paid players in the NBA included LeBron James ($26.540 million), Kevin Durant ($20.158 million), Carmelo Anthony ($22.458 million), and Russell Westbrook ($28.530 million).\n\n## Step 2: Calculate the total annual salary for these players.\nLeBron James' annual salary was $30.963 million, Kevin Durant's was $19.285 million (for the 2016-2017 season), Carmelo Anthony's was $23.458 million (for the 2016-2017 season), and Russell Westbrook's was $28.530 million.\n\n## Step 3: Identify the player who earned the highest annual salary in the NBA for 2018.\nBased on the calculated total annual salaries, LeBron James ($30.963 million) is not the correct answer since he does not earn the highest amount of money as reported by Forbes. However, according to Forbes' 2018 list, Kevin Durant and Russell Westbrook are tied with a combined salary of $54.2 million for the 2017-2018 season.\n\n## Step 4: Determine who earned the highest annual salary in the NBA.\nBased on the information from step 3, Kevin Durant is reported to have earned more than LeBron James ($26 million) and Russell Westbrook ($28 million), making him the player with the highest total annual salary in the NBA for 2018.\n\n## Step 5: Determine who was the most paid nba player 2018.\nBased on Forbes' 2018 list, Kevin Durant earns $24.59 million per year which is not correct since I calculated his salary to be $19.285 million, so it's actually Kevin Durant and Russell Westbrook who earned a combined total of $54.2 million for the 2017-2018 season.\n\n## Step 6: Determine the player with the highest annual salary in the NBA for 2018.\nKevin Durant earns more than Russell Westbrook making him the correct answer.\n\nThe final answer is: $\\boxed{Kevin Durant}$",
+        "real_answers": [
+            "Stephen Curry"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 101,
+        "query": "who was a great reformer who started the bhoodan andolan",
+        "llm_response": "Ramananda Tirtha.",
+        "real_answers": [
+            "Acharya Vinoba Bhave"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 102,
+        "query": "who plays captain kirk in the new star trek movies",
+        "llm_response": "Chris Pine played Captain James T. Kirk in the Star Trek reboot films (2009-2016).",
+        "real_answers": [
+            "Christopher Whitelaw Pine"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 103,
+        "query": "when did spain change their currency to the euro",
+        "llm_response": "## Euro replaced the peseta in Spain and Andorra on January 1, 2002.",
+        "real_answers": [
+            "2002"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 104,
+        "query": "who sang the song shes got the look",
+        "llm_response": "The song \"Shes Got the Look\" was sung by Roxette.",
+        "real_answers": [
+            "Marie Fredriksson",
+            "Per Gessle"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 105,
+        "query": "orange is the new black characters yoga lady",
+        "llm_response": "The Orange Is the New Black character known as \"Yoga Jones\" is Constance Shulman.",
+        "real_answers": [
+            "Yoga Jones"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 106,
+        "query": "who was the us president when nafta was developed",
+        "llm_response": "George H.W. Bush",
+        "real_answers": [
+            "Bill Clinton"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 107,
+        "query": "when is the last book of game of thrones coming out",
+        "llm_response": "The last book in Game of Thrones, \"A Dance with Dragons\", was released in July 2011.\n \nIn the above passage, it mentions that \"Winds of Winter\" is supposed to be the next book (in a hypothetical series).\nTherefore, since no specific release date has been given for this book and it's considered part of a planned series, its release date cannot be accurately determined.",
+        "real_answers": [
+            "2018 or later"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 108,
+        "query": "when did france give us the statue of liberty",
+        "llm_response": "The Statue of Liberty was designed by French sculptor Fr\u00e9d\u00e9ric Auguste Bartholdi in 1875 and built by Gustave Eiffel, but it was France that gave the statue to the people of the United States as a gift.",
+        "real_answers": [
+            "June 17, 1885"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 109,
+        "query": "who wrote the separation of church and state",
+        "llm_response": "Thomas Jefferson.",
+        "real_answers": [
+            "Thomas Jefferson"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 110,
+        "query": "what line connects the north and south pole",
+        "llm_response": "## North-South Line",
+        "real_answers": [
+            "(geographical) meridian (or line of longitude)"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 111,
+        "query": "who is the soccer player who scored most goals",
+        "llm_response": "There are several soccer players who have scored the most goals in their respective tournaments. Here are some of them:\n\n*   James Rodr\u00edguez (Colombia) - 6 goals (Golden Boot winner for the 2014 FIFA World Cup)\n*   Luis Su\u00e1rez (Uruguay) and Mario G\u00f6tze (Germany) - both scored a total of 7 goals\n*   Lionel Messi (Argentina) - not included in this list as he has only played in qualifying matches.",
+        "real_answers": [
+            "Josef Bican"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 112,
+        "query": "who sent the wedding video to gossip girl",
+        "llm_response": "Neither Chuck nor Serena.",
+        "real_answers": [
+            "Dan"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 113,
+        "query": "brown vs board of education supreme court justices",
+        "llm_response": "The main justices involved in the case \"Brown v. Board of Education\" were:\n\n1.   **Chief Justice Earl Warren**\n2. **John Harlan** \n3. **William O. Douglas** \n4. **Stanley Forman Reed**\n5.  **Hugo Black**",
+        "real_answers": [
+            "Earl Warren",
+            "Hugo Black",
+            "Stanley F. Reed",
+            "Felix Frankfurter",
+            "William O. Douglas",
+            "Robert H. Jackson",
+            "Tom C. Clark",
+            "Sherman Minton",
+            "Harold H. Burton"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 114,
+        "query": "who gets paid the most in the nhl",
+        "llm_response": "## Patrick Kane is not mentioned as one of the highest-paid players among the options. \nThe top earners are:\n1. Wayne Gretzky (Los Angeles Kings) $3 million\n2. Mario Lemieux (Pittsburgh Penguins) $2.408 million \n3. Eric Lindros (Philadelphia Flyers) $3.35 million",
+        "real_answers": [
+            "Patrick Kane",
+            "Jonathan Toews"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 115,
+        "query": "who sings last thing i needed first thing this morning",
+        "llm_response": "Willie Nelson.",
+        "real_answers": [
+            "Willie Nelson"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 116,
+        "query": "when was the fish and wildlife service created",
+        "llm_response": "The United States Fish and Wildlife Service was formed in 1940.",
+        "real_answers": [
+            "June 30, 1940"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 117,
+        "query": "mexico earthquake how long did it last 2017",
+        "llm_response": "The 2017 Central Mexico earthquake lasted about 20 seconds.",
+        "real_answers": [
+            "20 seconds"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 118,
+        "query": "who was british pm and viceroy during quit india movement",
+        "llm_response": "## Winston Churchill (Prime Minister) \nand Lord Louis Mountbatten (Viceroy).",
+        "real_answers": [
+            "Winston Churchill"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 119,
+        "query": "where does the saying mutton jeff come from",
+        "llm_response": "Mutton Jeff originated in rhyming slang for \"deaf\".",
+        "real_answers": [
+            "Mutt and Jeff is a long-running and widely popular American newspaper comic strip created by cartoonist Bud Fisher"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 120,
+        "query": "when can a player be substituted in soccer",
+        "llm_response": "A player may be substituted only during stoppage in play, with the permission of the referee.",
+        "real_answers": [
+            "during a stoppage in play"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 121,
+        "query": "when was central statistical organisation of india established",
+        "llm_response": "The Central Statistical Organisation (CSO) was set up in the cabinet secretariat on May 2, 1951.",
+        "real_answers": [
+            "2 May 1951"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 122,
+        "query": "who wrote the book journey to the center of the earth",
+        "llm_response": "Jules Verne",
+        "real_answers": [
+            "Jules Verne"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 123,
+        "query": "when was the pill legalized in the us",
+        "llm_response": "Eisenstadt v. Baird legalized birth control for all Americans on March 22, 1972.",
+        "real_answers": [
+            "March 22, 1972"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 124,
+        "query": "who are the finalists for americas got talent 2018",
+        "llm_response": "There is no information provided about the 2018 America's Got Talent winner. The last passage you gave only talks about Season 12 and does not mention any other season except for Season 10, which occurred in 2016, and mentions various contestants from previous seasons but does not specifically state the winners of those seasons.",
+        "real_answers": [
+            "Shin Lim",
+            "Zurcaroh",
+            "Brian King Joseph",
+            "Samuel J. Comroe",
+            "Michael Ketterer"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 125,
+        "query": "when did the 18th amendment go into effect",
+        "llm_response": "The 18th Amendment to the US Constitution went into effect on January 16, 1920.",
+        "real_answers": [
+            "January 16, 1920."
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 126,
+        "query": "when was the first world happiness report released",
+        "llm_response": "## The first World Happiness Report was released in 2012.",
+        "real_answers": [
+            "April 1, 2012"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 127,
+        "query": "who wrote 13 books in the new testament",
+        "llm_response": "The New Testament is attributed to 14 authors:\n\n1. \n2. \n3. \n\nAdditionally, there are 2 anonymous or disputed epistles (Epistle to the Hebrews)",
+        "real_answers": [
+            "Paul of Tarsus"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 128,
+        "query": "who's holding the knife in the last supper",
+        "llm_response": "Peter holds the knife.",
+        "real_answers": [
+            "Peter"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 129,
+        "query": "what kind of fish is used at mcdonalds",
+        "llm_response": "Atlantic cod and Alaskan pollock.",
+        "real_answers": [
+            "Alaska pollock"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 130,
+        "query": "what movie is bradley cooper and lady gaga in",
+        "llm_response": "A Star Is Born (2018)",
+        "real_answers": [
+            "A Star Is Born"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 131,
+        "query": "who built the temple of amun at karnak",
+        "llm_response": "The earliest known artifact found at the Karnak Temple complex is a small, eight-sided temple from the Eleventh Dynasty.",
+        "real_answers": [
+            "Senusret I"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 132,
+        "query": "where was the treaty signed that ended ww1",
+        "llm_response": "Paris Forest.",
+        "real_answers": [
+            "Versailles"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 133,
+        "query": "when did the puritans land in north america",
+        "llm_response": "Massachusetts Bay Colony, Saybrook Colony, and New Haven Colony were established by non-separating Puritans between 1629-1638.",
+        "real_answers": [
+            "1620"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 134,
+        "query": "who said a date which will live in infamy",
+        "llm_response": "Franklin D. Roosevelt.",
+        "real_answers": [
+            "United States President Franklin D. Roosevelt"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 135,
+        "query": "who built the stone bridge over the river namdang",
+        "llm_response": "The Namdang Stone Bridge was built by the British government.",
+        "real_answers": [
+            "craftmen brought from Bengal during the reign of Ahom king Rudra Singha"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 136,
+        "query": "who did kelly end up with on 90210",
+        "llm_response": "Kelly ended up with Donna on 90210.",
+        "real_answers": [
+            "Dylan"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 137,
+        "query": "when was the last time the yankees and the la dodgers played in the world series",
+        "llm_response": "The last time the Yankees and Dodgers played in the World Series is September 14, 2016.",
+        "real_answers": [
+            "1981"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 138,
+        "query": "who played danny beck on law and order svu",
+        "llm_response": "Donnie Wahlberg played Danny Reagan on Law & Order SVU.",
+        "real_answers": [
+            "Connie Inge-Lise Nielsen"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 139,
+        "query": "when was the poem then and now written",
+        "llm_response": "## The poem was written in 1805. \n          Now, it's been published posthumously in various forms over time.",
+        "real_answers": [
+            "1970"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 140,
+        "query": "who was the black cabinet member who went on to play an important role in the civil rights movement",
+        "llm_response": "Vivian Wythes was a member of the Black Cabinet.",
+        "real_answers": [
+            "Mary Jane McLeod Bethune"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 141,
+        "query": "who did the ming dynasty take control after",
+        "llm_response": "Li Zicheng and his followers seized Beijing on June 5.",
+        "real_answers": [
+            "Yuan dynasty"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 142,
+        "query": "when do the red sox play sweet caroline",
+        "llm_response": "## The Red Sox play \"Sweet Caroline\" in the 8th inning of every game, except for occasional special occasions.",
+        "real_answers": [
+            "in the middle of the eighth inning"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 143,
+        "query": "when's the last time the philadelphia phillies won the world series",
+        "llm_response": "The Phillies have not won a World Series since 2008.",
+        "real_answers": [
+            "2008"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 144,
+        "query": "who was runner up on america's got talent 2017",
+        "llm_response": "Angelica Hale was the runner-up on America's Got Talent 2017.",
+        "real_answers": [
+            "Angelica Hale"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 145,
+        "query": "who led an all black american cavalry unit",
+        "llm_response": "Henry O. Flipper, the first black graduate of West Point and commander of the 10th Cavalry.",
+        "real_answers": [
+            "Benjamin Grierson",
+            "Edward Hatch",
+            "Louis H. Carpenter",
+            "Nicholas M. Nolan",
+            "Henry O. Flipper"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 146,
+        "query": "where does the eurostar leave from in uk",
+        "llm_response": "Eurostar leaves from London, specifically St Pancras International station.",
+        "real_answers": [
+            "St Pancras International"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 147,
+        "query": "when did the movie a bug's life come out",
+        "llm_response": "A Bug's Life was released in 1998.",
+        "real_answers": [
+            "1998"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 148,
+        "query": "who is the head coach at notre dame",
+        "llm_response": "Brian Kelly.",
+        "real_answers": [
+            "Brian Kelly"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 149,
+        "query": "who plays the fairy godmother in the descendants",
+        "llm_response": "Jane, played by Brenna D'Amico.",
+        "real_answers": [
+            "Melanie Paxson"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 150,
+        "query": "some mice have a wheel in the middle. generally what is this wheel for",
+        "llm_response": "This central wheel (or center button) typically serves as a secondary navigation control, often for scrolling or zooming through content within an application.",
+        "real_answers": [
+            "scrolling"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 151,
+        "query": "before the spanish took over who owned the land that is now mexico",
+        "llm_response": "Before the Spanish took over, the lands that are now Mexico were owned by the Aztecs.",
+        "real_answers": [
+            "Aztec Empire"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 152,
+        "query": "who was the lead singer of the manhattans",
+        "llm_response": "Edward \"Sonny\" Bivins.",
+        "real_answers": [
+            "George Smith"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 153,
+        "query": "where did they film sisterhood of the traveling pants",
+        "llm_response": "They filmed in various locations including Kamloops and Ashcroft area in British Columbia, Canada.",
+        "real_answers": [
+            "in the Kamloops and Ashcroft area in British Columbia, Canada"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 154,
+        "query": "who is the founder of what's app",
+        "llm_response": "Jan Koum.",
+        "real_answers": [
+            "Brian Acton",
+            "Jan Koum"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 155,
+        "query": "when was the american flag flown for the first time",
+        "llm_response": "The American flag flew during battle on June 14, 1777.",
+        "real_answers": [
+            "June 1777"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 156,
+        "query": "when was the song we are the world recorded",
+        "llm_response": "The first night of recording occurred on January 22, 1985.",
+        "real_answers": [
+            "1985"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 157,
+        "query": "what color is potassium chloride in a flame test",
+        "llm_response": "In a flame test, Potassium chloride emits a yellow color.",
+        "real_answers": [
+            "Peach (light pink)"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 158,
+        "query": "when is season 6 of counting on coming out",
+        "llm_response": "## Season 6 of Counting On premiered on January 9, 2018.",
+        "real_answers": [
+            "September 11, 2017"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 159,
+        "query": "where do the different stages of cellular respiration take place",
+        "llm_response": "- Interphase (G1, S, G2)\n- Mitosis (cell division)",
+        "real_answers": [
+            "cells"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 160,
+        "query": "where did the term nit picking come from",
+        "llm_response": "The term \"nitpicking\" originated in the context of head lice infestation.",
+        "real_answers": [
+            "the act of removing nits (the eggs of lice, generally head lice) from the host's hair"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 161,
+        "query": "which president have nominated the most supreme court justices",
+        "llm_response": "John Adams and George Washington hold the record for the most Supreme Court nominations with a total of 14.",
+        "real_answers": [
+            "George Washington"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 162,
+        "query": "who is the singer of tadap tadap ke",
+        "llm_response": "KK",
+        "real_answers": [
+            "KK"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 163,
+        "query": "where did the whip and nae nae come from",
+        "llm_response": "The origin of \"nae nae\" is not mentioned in the given passages. It appears to be a modern slang term commonly used in Scottish Gaelic culture, particularly among young people.",
+        "real_answers": [
+            "the debut single by the American rapper Silent\u00f3"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 164,
+        "query": "where does the president of dominican republic live",
+        "llm_response": "The President of the Dominican Republic lives at the Presidential Palace (Palacio Nacional) in Santo Domingo.",
+        "real_answers": [
+            "The National Palace"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 165,
+        "query": "when did just the way you are come out",
+        "llm_response": "##Just the Way You Are came out in UK on September 19, 2010",
+        "real_answers": [
+            "2010"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 166,
+        "query": "how many tournament grass courts does wimbledon have",
+        "llm_response": "## Facilities (edit) \nWimbledon has 18 tournament grass courts.",
+        "real_answers": [
+            "18"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 167,
+        "query": "where does the natchez trace parkway start and end",
+        "llm_response": "The Natchez Trace Parkways in Mississippi, Tennessee, follow the approximate path of the original Natchez Trace Trail. They start near Natchez, Mississippi, and end at Nashville, Tennessee.",
+        "real_answers": [
+            "from Natchez, Mississippi, to Nashville, Tennessee"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 168,
+        "query": "when did the internet first become available to the public",
+        "llm_response": "Internet was first made available to the general public in 1969, with ARPANET.",
+        "real_answers": [
+            "the 1980s"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 169,
+        "query": "how many ritz hotels are there in the world",
+        "llm_response": "## As of 2023, The Ritz-Carlton has a total of 132 hotels worldwide.",
+        "real_answers": [
+            "130"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 170,
+        "query": "what is the maximum term a us president can serve",
+        "llm_response": "The maximum term a US President can serve is two four-year terms.",
+        "real_answers": [
+            "two four-year terms"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 171,
+        "query": "when does hajimete no gal manga come out",
+        "llm_response": "## Hajimete no Gyaru manga series was first serialized in Kadokawa Shoten magazine \"Monthly Sh\u014dnen Ace\" \nin November 2015.",
+        "real_answers": [
+            "between July 12, 2017 and September 13, 2017"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 172,
+        "query": "who wrote you cant always get what you want",
+        "llm_response": "Mick Jagger and Keith Richards, writers of the Rolling Stones.",
+        "real_answers": [
+            "Mick Jagger",
+            "Keith Richards"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 173,
+        "query": "the green in nigeria flag stand for what",
+        "llm_response": "The green stripes on Nigeria's flag represent natural wealth.",
+        "real_answers": [
+            "Nigeria's natural wealth"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 174,
+        "query": "when did tampa bay last win the stanley cup",
+        "llm_response": "## The Tampa Bay Lightning won their Stanley Cup in 2004.",
+        "real_answers": [
+            "2003\u201304"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 175,
+        "query": "managerial accounting information for a company is primarily used by its",
+        "llm_response": "## Top Management.",
+        "real_answers": [
+            "people within an organization"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 176,
+        "query": "how many chapters does the book of ruth have",
+        "llm_response": "The Book of Ruth has four chapters.",
+        "real_answers": [
+            "four"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 177,
+        "query": "statutory rape in ontario canada age of consent",
+        "llm_response": "In Ontario, Canada, since the passage took effect in May 2008, a person is guilty of an offence under statute if they have sexual intercourse with anyone between the ages of 14 and 16 without their consent. If the person has attained age 16, but not yet reached age 18, they are still guilty and liable to imprisonment for life subject to a term of imprisonment of seven years.",
+        "real_answers": [
+            "16"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 178,
+        "query": "who sang the song 1 2 3 4",
+        "llm_response": "- Jim Gilstrap \n- Lani Groves\n- Gloria Barley",
+        "real_answers": [
+            "Feist"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 179,
+        "query": "who is known as trimurthy of carnatic music",
+        "llm_response": "Shiva Dakshinamurti.",
+        "real_answers": [
+            "Tyagaraja",
+            "Muthuswami Dikshitar",
+            "Syama Sastri."
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 180,
+        "query": "who did lady gaga play in american horror story roanoke",
+        "llm_response": "Lady Gaga played the role of Ivy Mair, a mysterious woman, in American Horror Story: Roanoke.",
+        "real_answers": [
+            "Sc\u00e1thach"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 181,
+        "query": "who played idi amin in the last king of scotland",
+        "llm_response": "## Forest Whitaker played Idi Amin.",
+        "real_answers": [
+            "Forest Whitaker"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 182,
+        "query": "when did mystikal shake it fast come out",
+        "llm_response": "The passage does not mention a specific release date for \"Shake It Fast\". However, according to the first passage, \"Shake Ya Ass\" was released on July 18, 2000.",
+        "real_answers": [
+            "July 18, 2000"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 183,
+        "query": "denmark shares a physical frontier with which european country",
+        "llm_response": "##Denmark shares a physical frontier with Norway.",
+        "real_answers": [
+            "Germany"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 184,
+        "query": "how tall is the ferris wheel in london england",
+        "llm_response": "## The London Eye is approximately 135 metres (443 ft) tall.",
+        "real_answers": [
+            "135 metres (443 ft) tall"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 185,
+        "query": "when does season 4 of orange is the new black start",
+        "llm_response": "Season 4 of Orange Is the New Black started on September 25, 2014.",
+        "real_answers": [
+            "June 17, 2016"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 186,
+        "query": "who put the first brick of golden temple",
+        "llm_response": "They began to build, and in the fourth week they made brick with fire, and the bricks served them for stone, and the clay with which they cemented them together was asphalt which comes out of the sea, and out of the fountains of water in the land of Shinar. \n\nAccordingly, as a gesture of this non-sectarian universalness of Sikhism , Guru Arjan had specially invited the Muslim Sufi saint, Hazrat Mian Mir to lay the foundation stone of the Harmandir Sahib.",
+        "real_answers": [
+            "Guru Arjan Dev"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 187,
+        "query": "who plays angie in that 70's show",
+        "llm_response": "## Angie Jackson plays Angela Chase.",
+        "real_answers": [
+            "Megalyn Echikunwoke"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 188,
+        "query": "who did the theme song for phineas and ferb",
+        "llm_response": "The theme song for Phineas and Ferb is performed by Bowling For Soup.",
+        "real_answers": [
+            "Bowling For Soup"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 189,
+        "query": "who gave the concept of looking glass self",
+        "llm_response": "Charles Horton Cooley.",
+        "real_answers": [
+            "Charles Horton Cooley"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 190,
+        "query": "when did chelsea first win the fa cup",
+        "llm_response": "## Passage 1 and Passage 3",
+        "real_answers": [
+            "1970"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 191,
+        "query": "who does the voice of isaac on the oroville",
+        "llm_response": "Norm Macdonald",
+        "real_answers": [
+            "Mark Jackson"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 192,
+        "query": "the financial crisis of 2008 was caused by",
+        "llm_response": "The financial crisis of 2008 is considered to be the worst since the Great Depression. It began with a crisis in the subprime mortgage market in the United States, and developed into an international banking crisis due to various factors including excessive risk-taking by banks, flawed financial regulations, and government policies.",
+        "real_answers": [
+            "a crisis in the subprime mortgage market"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 193,
+        "query": "who built the dome of the rock mosque",
+        "llm_response": "## passage 1: \n- Abd al-Malik and Al-Walid I, son and successor of Umayyad Caliph Abd al-Malik.\n\n## passage 2: \n- Ottomans (including Haj Amin al-Husseini) during the British mandate of Palestine from 1917.",
+        "real_answers": [
+            "initially completed in 691 CE at the order of Umayyad Caliph Abd al-Malik"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 194,
+        "query": "how to calculate the rate of natural population change",
+        "llm_response": "To calculate the rate of natural increase, subtract the crude death rate from the crude birth rate. \n    ((Births in a year - Deaths in a year) \u00f7 Total Population at the Start of the Year) \u00d7 100 = RNI",
+        "real_answers": [
+            "the crude birth rate minus the crude death rate"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 195,
+        "query": "who came up with the 7 deadly sins",
+        "llm_response": "The concept and categorization of the seven deadly sins is attributed to various ancient Christian figures, but the modern list was revised by Pope Gregory I in AD 590.",
+        "real_answers": [
+            "the desert fathers, especially Evagrius Ponticus"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 196,
+        "query": "who came up with the idea of winter olympics",
+        "llm_response": "Neither passage mentions who specifically \"came up\" with the idea of Winter Olympics. However, it does mention that Olympic Games were held in 1924, 1928, 1932, 1936, 1948, 1952, 1956, 1960, 1964, 1968, 1972, 1976, 1980, 1984, 1988, 1992, 1994, 2002, 2006, 2014, and 2022.",
+        "real_answers": [
+            "General Viktor Gustaf Balck in Stockholm, Sweden"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 197,
+        "query": "what are the three witches in macbeth called",
+        "llm_response": "The Three Witches or Weird Sisters/Three Witches in Macbeth are referred to by different names.",
+        "real_answers": [
+            "Weird Sisters or Wayward Sisters"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 198,
+        "query": "who was the director general for the new netherland colony starting in 1647",
+        "llm_response": "The Director-General of New Netherland from 1647 to 1648 was Peter Stuyvesant.",
+        "real_answers": [
+            "Peter Stuyvesant"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 199,
+        "query": "what car does reynolds woodcock drive in phantom thread",
+        "llm_response": "Reynolds Woodcock drives a maroon Bristol 405 in Phantom Thread.",
+        "real_answers": [
+            "a maroon Bristol 405"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 200,
+        "query": "when did the university of central florida start playing football",
+        "llm_response": "The University of Central Florida (UCF) started playing football in the fall of 1979 as a NCAA Division III program. It later ascended to Division I, A, now known as FBS, becoming the only program in NCAA history to have played in all four divisions of football.",
+        "real_answers": [
+            "fall of 1979"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 201,
+        "query": "who cut off the high priest's ear",
+        "llm_response": "The correct answer is \"Jesus\".",
+        "real_answers": [
+            "Simon Peter"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 202,
+        "query": "in 2003 united states and british forces attacked the nation of",
+        "llm_response": "The United States and British forces.",
+        "real_answers": [
+            "Iraq"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 203,
+        "query": "name of the 23rd tirthankar of jainisms in india",
+        "llm_response": "## Parshvanatha ( 24th Tirthankara ) \n            ## Answer:\n\nParshvanatha is among the first 22 Jain Tirthankaras.",
+        "real_answers": [
+            "Parshvanatha"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 204,
+        "query": "who played dallas in the 1986 movie stagecoach",
+        "llm_response": "Dallas was portrayed by Elizabeth Ashley.",
+        "real_answers": [
+            "Elizabeth Ashley"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 205,
+        "query": "what is the name of the form of chemical energy in the body that can be used by all cells",
+        "llm_response": "ATP (adenosine triphosphate).",
+        "real_answers": [
+            "adenosine triphosphate (ATP)"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 206,
+        "query": "which subdivision of the pharynx is located directly behind the oral cavity",
+        "llm_response": "## The oropharynx.",
+        "real_answers": [
+            "The oropharynx"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 207,
+        "query": "when is grey's anatomy season 13 coming out on dvd",
+        "llm_response": "There is no mention of Season 13. The given passages only talk about Seasons 9-10 of Grey's Anatomy.",
+        "real_answers": [
+            "August 29, 2017",
+            "October 2, 2017"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 208,
+        "query": "who plays caputo on orange is the new black",
+        "llm_response": "Nick Sandow.",
+        "real_answers": [
+            "Nick Sandow"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 209,
+        "query": "after what season was the x files movie",
+        "llm_response": "The X Files movie \"I Want to Believe\" was released after Season 10.",
+        "real_answers": [
+            "extraterrestrial mythology"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 210,
+        "query": "when did chocolate easter eggs originate in the uk",
+        "llm_response": "The origin of chocolate Easter eggs is not mentioned explicitly in the passages. However, it can be inferred that they originated from Western cultures with an \"oldest tradition\" to use dyed and painted chicken eggs, which later evolved into modern customs of using chocolate eggs.",
+        "real_answers": [
+            "1873"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 211,
+        "query": "who is considered the father of modern geology",
+        "llm_response": "James Hutton.",
+        "real_answers": [
+            "James Hutton"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 212,
+        "query": "meaning of the phrase sauce for the goose",
+        "llm_response": "The phrases \"sauce for the goose\" and \"sauce for the gander\" are idiom meanings related to giving something (usually praise or flattery) to someone else rather than using it on oneself.",
+        "real_answers": [
+            "Do unto others as you wish to be done for you"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 213,
+        "query": "who is the protagonist in how the grinch stole christmas",
+        "llm_response": "The Grinch.",
+        "real_answers": [
+            "the Grinch"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 214,
+        "query": "what is the function of the choroid layer",
+        "llm_response": "The choroid provides oxygen and nourishment to the outer layers of the retina.",
+        "real_answers": [
+            "provides oxygen and nourishment to the outer layers of the retina"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 215,
+        "query": "who played louisa clark in me before you",
+        "llm_response": "Louisa Clark was played by Emilia Clarke.",
+        "real_answers": [
+            "Emilia Clarke"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 216,
+        "query": "who is the number one artist on spotify",
+        "llm_response": "Ed Sheeran",
+        "real_answers": [
+            "Drake"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 217,
+        "query": "how many times is the holy spirit mentioned in the book of acts",
+        "llm_response": "The word 'Holy Spirit' or \"Pneuma\" (Acts 2:1-4, 4:28-31, 8:15-17, 10:44 and 19:6) is mentioned a total of **55** times in the Book of Acts.",
+        "real_answers": [
+            "fifty five"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 218,
+        "query": "when does the wwe hall of fame start",
+        "llm_response": "The WWE Hall of Fame starts in 1993.",
+        "real_answers": [
+            "March 22, 1993"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 219,
+        "query": "how many episodes of the good doctor in season 1",
+        "llm_response": "Season 1 has 18 episodes.",
+        "real_answers": [
+            "18"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 220,
+        "query": "where were st. bernards utilized as rescue dogs in mountains",
+        "llm_response": "They were primarily used as livestock guardians, herding dogs, draft dogs, hunting dogs, search and rescue dogs, and watchdogs.",
+        "real_answers": [
+            "the Great St Bernard Pass on the Italian-Swiss border",
+            "Little St Bernard Pass in the Italian-French border"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 221,
+        "query": "bay of pigs was a failed attempt to overthrow who",
+        "llm_response": "Cuban exiles.",
+        "real_answers": [
+            "Fidel Castro"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 222,
+        "query": "how many finger lakes are there in new york state",
+        "llm_response": "The Finger Lakes region consists of 11 long, narrow lakes.",
+        "real_answers": [
+            "11"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 223,
+        "query": "1995 scorsese film starring robert de niro and sharon stone",
+        "llm_response": "The 1995 Scorsese film starring Robert De Niro and Sharon Stone is \"Casino\".",
+        "real_answers": [
+            "Casino"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 224,
+        "query": "when did the last frenchman win the tour de france",
+        "llm_response": "## Jean-Christophe Maes, a French cyclist, was the last French rider to win the Tour de France. He achieved this feat in 1936.",
+        "real_answers": [
+            "1985"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 225,
+        "query": "when did lil peep release his first song",
+        "llm_response": "Lil Peep released his mixtape \"Lil Peep Part One\" in August 2015.",
+        "real_answers": [
+            "2015"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 226,
+        "query": "which geographical part of haryana is shivalik hills situated",
+        "llm_response": "Shivalik Hills are located to the northeast, near Ambala.",
+        "real_answers": [
+            "northeast"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 227,
+        "query": "when will yugioh arc v episode 100 be dubbed",
+        "llm_response": "## Episode 100 of Yu-Gi-Oh! Arc V has not been released in Dub. \nIt was originally released as a TV special and DVD, but it does not have an English dub version yet.",
+        "real_answers": [
+            "July 22, 2017"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 228,
+        "query": "who was the original lead singer for deep purple",
+        "llm_response": "Ian Paice.",
+        "real_answers": [
+            "Rod Evans"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 229,
+        "query": "who has won the most olympic gold medals for australia",
+        "llm_response": "Ian Thorpe and Leisel Jones are tied with a total of nine Olympic gold medals each.",
+        "real_answers": [
+            "Shane Gould",
+            "Ian Thorpe",
+            "Dawn Fraser",
+            "Murray Rose"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 230,
+        "query": "jane the virgin season 4 episode 14 release date",
+        "llm_response": "The final answer is not provided in the given passage.",
+        "real_answers": [
+            "March 23, 2018"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 231,
+        "query": "when was the first season of dancing with the stars",
+        "llm_response": "Season 1 of \"Dancing with the Stars\" premiered on June 1, 2005.",
+        "real_answers": [
+            "June 1 \u2013 July 6, 2005"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 232,
+        "query": "which country gave the united states the statue of liberty as a gift",
+        "llm_response": "France.",
+        "real_answers": [
+            "France"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 233,
+        "query": "where are they taking piper in season 2",
+        "llm_response": "They were taken by the gang.",
+        "real_answers": [
+            "Chicago"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 234,
+        "query": "how many un secretary generals have there been",
+        "llm_response": "There have been 5 former Secretaries-General of the United Nations:\n\n1. Jebb Lie Hammarskj\u00f6ld\n2. Trygve Lie\n3. Boutros-Ghali (Boutros Boutros-Ghali)\n4. Kofi Annan\n5. Ban Ki-moon",
+        "real_answers": [
+            "9"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 235,
+        "query": "when did the ncaa adopt the shot clock",
+        "llm_response": "The NCAA adopted the shot clock for men's basketball in the 1985-86 season.",
+        "real_answers": [
+            "in the 1985\u201386 season"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 236,
+        "query": "how much did it cost rio to host the olympics",
+        "llm_response": "$4,600 million US $11.6 billion (for Rio de Janeiro Summer Olympics)",
+        "real_answers": [
+            "$4,600,000,000"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 237,
+        "query": "what was the anaconda plan in the civil war",
+        "llm_response": "The Anaconda Plan was an outline strategy of the U.S. Union Army during the American Civil War to suppress the Confederacy through a combination of blockades, advances on the Mississippi River, and a defense against Confederate raids on high seas.",
+        "real_answers": [
+            "Union blockade of the Southern ports",
+            "cut the South in two",
+            "advance down the Mississippi River"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 238,
+        "query": "who plays larry's son in night at the museum",
+        "llm_response": "##Lachlan Watson and Dylan O'Brien",
+        "real_answers": [
+            "Skyler Gisondo"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 239,
+        "query": "where is the olmec civilization located on a map",
+        "llm_response": "The Olmec civilization was located in present-day Mexico, specifically in the region of southern Mexico.",
+        "real_answers": [
+            "south-central Mexico, in the present-day states of Veracruz and Tabasco"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 240,
+        "query": "if i was born in the uk what is my nationality",
+        "llm_response": "If you were born in the UK, your nationality would be British.",
+        "real_answers": [
+            "a British citizen"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 241,
+        "query": "who is the person who has lived the longest",
+        "llm_response": "Nabi Tajima of Japan",
+        "real_answers": [
+            "Jeanne Calment of France"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 242,
+        "query": "what did the olds designation 4-4-2 stand for",
+        "llm_response": "The definition of \"4-4-2\" was originally based on 400 cubic inches, a four barrel carburetor and dual exhausts.",
+        "real_answers": [
+            "four-barrel carburetor, four-speed manual transmission, and dual exhausts"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 243,
+        "query": "who is the present foreign minister of usa",
+        "llm_response": "## Salahuddin Rabbani \n## Jamiat-e Islami",
+        "real_answers": [
+            "Rex Tillerson"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 244,
+        "query": "who got the first oscar award in india",
+        "llm_response": "## Satyajit Ray, Gulzar and Bhanu Athaiya all won Oscars at different times.\nThey are among the earliest recipients of an Academy Award.",
+        "real_answers": [
+            "Bhanu Athaiya",
+            "Ravi Shankar"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 245,
+        "query": "when does new season of greys anatomy begin",
+        "llm_response": "The second season of Greys Anatomy began on September 24, 2018.",
+        "real_answers": [
+            "September 27, 2018"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 246,
+        "query": "when was the house of burgesses first established in colonial virginia",
+        "llm_response": "1619",
+        "real_answers": [
+            "1619"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 247,
+        "query": "who plays princess amber in the shannara chronicles",
+        "llm_response": "Elizabeth Thatcher",
+        "real_answers": [
+            "Poppy Gabriella Drayton"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 248,
+        "query": "when was the last time eagles were in the superbowl",
+        "llm_response": "The Eagles were in the Super Bowl in the following years:\n\n- Super Bowl LII (2017)\n\nNote that they have not appeared in a Super Bowl since then.",
+        "real_answers": [
+            "Super Bowl LII"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 249,
+        "query": "when was the television introduced to the public",
+        "llm_response": "The United States ( edit ) WNBT (later WNBC ) schedule for first week of commercial TV programming in the US, July 1941.",
+        "real_answers": [
+            "uly 2, 1928,"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 250,
+        "query": "who scored the most goals in 2014 world cup",
+        "llm_response": "David Luiz",
+        "real_answers": [
+            "James Rodr\u00edguez"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 251,
+        "query": "what does the song closer by nine inch nails mean",
+        "llm_response": "The song \"Closer\" by Nine Inch Nails, from their album The Downward Spiral, is often interpreted as a metaphor for intimacy, desire, and addiction. It has been described as having sexually charged lyrics with barnyard animal samples, humorously implying that the song is about bestiality.",
+        "real_answers": [
+            "a meditation on self-hatred and obsession"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 252,
+        "query": "what is the type of government in fiji",
+        "llm_response": "Fiji has a parliamentary representative democratic republic.",
+        "real_answers": [
+            "parliamentary representative democratic republic"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 253,
+        "query": "japanese for spirits these are associated with shintoism",
+        "llm_response": "Kami \nJapanese : \u795e , (ka\ua71cmi) .",
+        "real_answers": [
+            "Kami"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 254,
+        "query": "when did the us give up the panama canal",
+        "llm_response": "The United States gave up the Panama Canal in December 31, 1999.",
+        "real_answers": [
+            "December 31, 1999"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 255,
+        "query": "what is the function of the terminal cisternae",
+        "llm_response": "The terminal cisternae are enlarged areas surrounding transverse tubules, involved in the transduction of nervous impulses to muscle contraction.",
+        "real_answers": [
+            "store calcium (increasing the capacity of the sarcoplasmic reticulum to release calcium) and release it when an action potential courses down the transverse tubules, eliciting muscle contraction"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 256,
+        "query": "when did rachel start working at ralph lauren",
+        "llm_response": "##Rachel started working at Ralph Lauren in January of the year 2004.",
+        "real_answers": [
+            "\"The One Where Rachel Smokes\""
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 257,
+        "query": "when was animal testing for cosmetics banned in the uk",
+        "llm_response": "Animal testing on cosmetics or their ingredients was banned in the UK in 1998.",
+        "real_answers": [
+            "1998"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 258,
+        "query": "when was the city of green bay founded",
+        "llm_response": "Green Bay was incorporated as a borough in 1838 and as a city in 1854.",
+        "real_answers": [
+            "1634"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 259,
+        "query": "who plays benji's brother in alone together",
+        "llm_response": "## Benji's older brother \n Edie McClurg",
+        "real_answers": [
+            "Chris D'Elia"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 260,
+        "query": "which is the shortest day in the southern hemisphere",
+        "llm_response": "The Southern Hemisphere's winter solstice occurs on June 21.",
+        "real_answers": [
+            "winter solstice"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 261,
+        "query": "who has the major league home run record",
+        "llm_response": "Barry Bonds.",
+        "real_answers": [
+            "Barry Bonds"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 262,
+        "query": "what was the motive for the boston marathon bombing",
+        "llm_response": "The Boston Marathon bombing was motivated by extremist Islamist beliefs and a desire for retribution against U.S. military action in Afghanistan and Iraq, according to Dzhokhar Tsarnaev's own statements.",
+        "real_answers": [
+            "Retribution for U.S. military action in Afghanistan and Iraq"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 263,
+        "query": "who sang it's a long way to the top",
+        "llm_response": "Angus Young",
+        "real_answers": [
+            "AC/DC"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 264,
+        "query": "when can you run with the bulls in spain",
+        "llm_response": "You cannot run with the bulls in Spain. The most famous running of the bulls is held during the nine-day festival of Sanfermines, which takes place every year on July 6-14, but you cannot participate in this event.",
+        "real_answers": [
+            "6\u201314 July"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 265,
+        "query": "when does season 7 of the walking dead start",
+        "llm_response": "Season 7 started on May 2, 2016.",
+        "real_answers": [
+            "October 23, 2016"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 266,
+        "query": "who is the leader of the senate when the designated leader is not available",
+        "llm_response": "In case the President Pro Tempore of the US Senate is absent, \nany senator typically a member of the majority party,  can designate another senator to act in their place.",
+        "real_answers": [
+            "President pro tempore of the United States Senate"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 267,
+        "query": "where does the ramirez last name come from",
+        "llm_response": "The surname Ram\u00edrez is of Spanish and Latin American origin. It is derived from the Arabic word \"al-Ram\u012bz,\" which means \"the son of Ramis.\" The name was brought to Spain by Moors during the Islamic conquest of the Iberian Peninsula in the 8th century.\n\nIn Spanish, the surname Ram\u00edrez can be broken down into two components:\n\n*   \"Ramis\"\n-   Meaning: \"son of\" or \"descendant of\"\n\nThe suffix \"-ez\" is a common diminutive form that was added to some surnames during the Middle Ages. It implies that the person was born into a noble or aristocratic family.\n\nOver time, the surname Ram\u00edrez has spread throughout Spain and Latin America, becoming a prominent name in countries such as Mexico, Argentina, and Chile.\n\nToday, the surname Ram\u00edrez is found in many different countries and cultures, including:\n\n*   Spain: particularly in regions like Galicia and Extremadura\n*   Mexico: where it was brought by Spanish colonizers\n*   Argentina: where it has been adapted to reflect local cultural traditions\n*   Chile: where it is commonly used in the northern regions of the country\n\nIn summary, the surname Ram\u00edrez originates from Arabic roots and has evolved over time through various influences to become a widespread name in many different cultures.",
+        "real_answers": [
+            "a patronymic Spanish surname meaning \"son of Ramiro\""
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 268,
+        "query": "who is the winner of american got talent 2017",
+        "llm_response": "## Darci Lynne Farmer",
+        "real_answers": [
+            "Darci Lynne Farmer"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 269,
+        "query": "who does the song i'm only human",
+        "llm_response": "I'm Only Human is a song by Rick Ross, Christina Perri, Rag'n'Bone Man, and The Human League.",
+        "real_answers": [
+            "Rick Ross"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 270,
+        "query": "who does aslan represent in the lion the witch and the wardrobe",
+        "llm_response": "Aslan represents Jesus Christ.",
+        "real_answers": [
+            "Jesus Christ"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 271,
+        "query": "who plays the cdc doctor on designated survivor",
+        "llm_response": "The CDC doctor on \"Designated Survivor\" is Laura Grimes.",
+        "real_answers": [
+            "Kiefer Sutherland"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 272,
+        "query": "what the mustang in gone in 60 seconds",
+        "llm_response": "The Mustang used in the 2000 film \"Gone in 60 Seconds\" is a customized 1967 Ford Mustang fastback.",
+        "real_answers": [
+            "a customized 1971 Ford Mustang Sportsroof (redressed as 1973[1][2])"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 273,
+        "query": "countries who have won the cricket world cup",
+        "llm_response": "- West Indies \n     - Pakistan\n      - Sri Lanka\n        - India \n       - Australia",
+        "real_answers": [
+            "West Indies",
+            "India",
+            "Australia",
+            "Pakistan",
+            "Sri Lanka"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 274,
+        "query": "what episode of drop dead diva does grayson find out jane is deb",
+        "llm_response": " Grayson finds out Jane is Deb in Episode 13.",
+        "real_answers": [
+            "\"Change of Heart\""
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 275,
+        "query": "list the five freedoms of expression guaranteed in the first amendment",
+        "llm_response": "The Five Freedoms of Expression are:\n\n1. Freedom of speech \n2. Freedom of the press \n3. Right to petition the government for redress of grievances \n4. Free assembly \n5. The right to hold opinions without interference from others (Freedom of Association)",
+        "real_answers": [
+            "free exercise of religion",
+            "freedom of speech",
+            "freedom of the press",
+            "right to peaceably assemble",
+            "petition for a governmental redress of grievances"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 276,
+        "query": "first indian to win grand slam in tennis",
+        "llm_response": "Sania Mirza was the first Indian to win a Grand Slam tournament.",
+        "real_answers": [
+            "Mahesh Shrinivas Bhupathi"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 277,
+        "query": "where did the battle of the philippine sea take place",
+        "llm_response": "The Battle of the Philippine Sea took place in the Pacific Ocean, specifically off the coast of Mariana Islands.",
+        "real_answers": [
+            "The Philippine Sea"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 278,
+        "query": "when was the last time the blackhawks won the stanley cup",
+        "llm_response": "The Chicago Blackhawks won the Stanley Cup in 2010, 2013, and 2015.",
+        "real_answers": [
+            "2014\u201315"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 279,
+        "query": "who owns the car from back to the future",
+        "llm_response": "Universal Studios Florida owns a special DMC-12, also known as \"The Time Machine\", which has been used in the Back to the Future trilogy.",
+        "real_answers": [
+            "Petersen Automotive Museum"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 280,
+        "query": "who wrote the music and lyrics for fiddler on the roof",
+        "llm_response": "Jerry Bock, Sheldon Harnick, and Joseph Stein wrote the music and lyrics for Fiddler on the Roof.",
+        "real_answers": [
+            "music by Jerry Bock",
+            "lyrics by Sheldon Harnick"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 281,
+        "query": "who played the clerk in the blues brothers",
+        "llm_response": "Daniel Davis played the role of Cook County Assessor's clerk.",
+        "real_answers": [
+            "Steven Spielberg"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 282,
+        "query": "who sings back to life back to reality",
+        "llm_response": "## LeToya Luckett",
+        "real_answers": [
+            "Soul II Soul featuring Caron Wheeler"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 283,
+        "query": "who played sugar cane in beach blanket bingo",
+        "llm_response": "Sugar Kane was played by Linda Evans.",
+        "real_answers": [
+            "Linda Evans"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 284,
+        "query": "most points kobe scored in a playoff game",
+        "llm_response": "Kobe Bryant holds the record with 63 points in a single game during his career.",
+        "real_answers": [
+            "50"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 285,
+        "query": "who's the host of dancing with the stars",
+        "llm_response": "The current hosts of \"Dancing with the Stars\" are:\n\n* Tom Bergeron \n* Erin Andrews.",
+        "real_answers": [
+            "Tom Bergeron",
+            "Erin Andrews"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 286,
+        "query": "which individual has won the most olympic medals in their lifetime",
+        "llm_response": "The answer is Mark Spitz, who won a total of 11 Olympic medals (8 gold, 2 silver, and 1 bronze) in swimming events between 1960 and 1972.\n\nMark Spitz holds the record for the most overall Olympic medals won by an individual. He has also won the most gold medals in a single Olympics with six gold medals at the 1972 Munich Olympics.\n\nSo, to answer your question, Mark Spitz is the individual who has won the most Olympic medals in their lifetime.",
+        "real_answers": [
+            "Michael Phelps"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 287,
+        "query": "when was the ibm xt microcomputer released in the market",
+        "llm_response": "The IBM Personal Computer XT was released on March 8, 1983.",
+        "real_answers": [
+            "March 8, 1983"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 288,
+        "query": "when did game of thrones season 7 start",
+        "llm_response": "## Passages provided do not mention the exact starting date of Season 7.",
+        "real_answers": [
+            "July 16, 2017"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 289,
+        "query": "when did hurricane sandy happen in new york",
+        "llm_response": "Hurricane Sandy struck New York on October 29, 2012.",
+        "real_answers": [
+            "October 29"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 290,
+        "query": "when did season 8 of the vampire diaries start",
+        "llm_response": "Season 8 of The Vampire Diaries started on October 21, 2016.",
+        "real_answers": [
+            "October 21, 2016"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 291,
+        "query": "when was the last all star game at dodger stadium",
+        "llm_response": "The information provided does not indicate which specific date the Los Angeles Dodgers have hosted an All-Star Game.",
+        "real_answers": [
+            "July 8, 1980"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 292,
+        "query": "who said et tu brute in julius caesar",
+        "llm_response": "The Romans, specifically Julius Caesar and his friend Marcus Brutus.",
+        "real_answers": [
+            "Julius Caesar"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 293,
+        "query": "how much money does tourism bring to canada",
+        "llm_response": "Domestic and international tourism combined brought in over $17.4 billion in receipts to the Canadian economy in 2012, with a direct contribution of 1% to Canada's total GDP, supporting approximately 309,000 jobs.",
+        "real_answers": [
+            "US$17.4 billion"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 294,
+        "query": "what city is in the center of the us",
+        "llm_response": "The cities are not specified, however Belle Fourche, South Dakota",
+        "real_answers": [
+            "Lebanon"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 295,
+        "query": "which organ of the un has the veto powers",
+        "llm_response": "The United Nations General Assembly",
+        "real_answers": [
+            "United Nations Security Council"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 296,
+        "query": "how long did it take to get to australia on the first fleet",
+        "llm_response": "It took approximately eleven months for the First Fleet to reach Australia.",
+        "real_answers": [
+            "13 May 1787",
+            "18 January 1788"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 297,
+        "query": "what is the meaning of excuse my french",
+        "llm_response": "\"Excuse my French\" can be understood to mean \"excuse me\", literally asking someone to pardon their behavior.",
+        "real_answers": [
+            "common English language phrase ostensibly disguising profanity as words from the French language"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 298,
+        "query": "where is my big fat greek wedding set",
+        "llm_response": "The story of \"My Big Fat Greek Wedding\" is not explicitly stated as being set anywhere specifically. However, based on various hints and clues throughout the passage, it can be inferred that:\n\n* The film is about a family in Greece.\n* Fotoula Portokalos (the main character) mentions her family's black sheep status, which might suggest a Greek cultural background.\n* Ian Miller, played by John Corbett, has an American name and is described as being from \"upper middle class White Anglo-Saxon Protestant\", indicating that he may be an immigrant to Greece.\n\nIt can also be inferred that the story takes place in Greece due to:\n\n* The mention of the family's Greek heritage and cultural traditions.\n* The fact that Fotoula visits her grandparents in Greece, suggesting a strong connection to her ancestral homeland.\n\nHowever, without explicit confirmation from Nia Vardalos or Joel Zwick, it is not possible to pinpoint an exact location where \"My Big Fat Greek Wedding\" is set.",
+        "real_answers": [
+            "Chicago"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 299,
+        "query": "who plays snow white as a child in once upon a time",
+        "llm_response": "Ginnifer Goodwin played Snow White / Mary Margaret Blanchard as a child in Once Upon a Time.",
+        "real_answers": [
+            "Bailee Madison"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 300,
+        "query": "who is the actor that plays negan on the walking dead",
+        "llm_response": "Jeffrey Dean Morgan.",
+        "real_answers": [
+            "Jeffrey Dean Morgan"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 301,
+        "query": "when did midwest express go out of business",
+        "llm_response": "Midwest Airlines ceased operations in November 2010.",
+        "real_answers": [
+            "in late 2011"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 302,
+        "query": "who plays governor conway in house of cards",
+        "llm_response": "Michael Kelly plays Governor Will Conway in House of Cards.",
+        "real_answers": [
+            "Charles Joel Nordstr\u00f6m Kinnaman"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 303,
+        "query": "when did the minimum drinking age become 21",
+        "llm_response": "The passage does not provide a specific date for when the minimum drinking age became 21. However, it states that the National Minimum Drinking Age Act (NMDA) was passed in 1984. Therefore, we can infer that the NMDA increased the drinking age from 18 to 21 after this act took effect.\n\nThe passage also mentions that Louisiana raised its drinking age from 18 to 21 in 2010.",
+        "real_answers": [
+            "1984"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 304,
+        "query": "how many deaths has there been in nascar",
+        "llm_response": "There have been 56 NASCAR fatalities.",
+        "real_answers": [
+            "28 driver fatalities"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 305,
+        "query": "who plays the husband in the other woman",
+        "llm_response": "Mark",
+        "real_answers": [
+            "Nikolaj Coster-Waldau"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 306,
+        "query": "who won the college world series in 2016",
+        "llm_response": "Coastal Carolina Chanticleers.",
+        "real_answers": [
+            "Coastal Carolina"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 307,
+        "query": "who's the winner of masterchef season 8",
+        "llm_response": "Dino Angelo Luciano.",
+        "real_answers": [
+            "Dino Angelo Luciano"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 308,
+        "query": "when did 17 nam summit meet take place",
+        "llm_response": "The 16th NAM Summit took place from September 24 to October 6, 2018.",
+        "real_answers": [
+            "2016"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 309,
+        "query": "what new political party was created as a result of the kansas-nebraska act",
+        "llm_response": "The Republican Party was created as a result of the Kansas-Nebraska Act.",
+        "real_answers": [
+            "Republican Party"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 310,
+        "query": "who sings do you love me in dirty dancing",
+        "llm_response": "Nicole Scherzinger and Colt Prattes.",
+        "real_answers": [
+            "The Contours"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 311,
+        "query": "what's the name of the goat in ferdinand",
+        "llm_response": "The name of the goat in Ferdinand is Lupe.",
+        "real_answers": [
+            "Lupe"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 312,
+        "query": "who wrote the original story of romeo and juliet",
+        "llm_response": "Luigi da Porto.",
+        "real_answers": [
+            "William Shakespeare"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 313,
+        "query": "when does lauren daigle's album come out",
+        "llm_response": "Her albums are:\n\n1. How Can It Be (2015)\n2. Behold: A Christmas Collection (2016)",
+        "real_answers": [
+            "September 7, 2018"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 314,
+        "query": "who played winston churchill in the darkest hour movie",
+        "llm_response": "Gary Oldman played Winston Churchill in the movie \"Darkest Hour\".",
+        "real_answers": [
+            "Gary Oldman"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 315,
+        "query": "what is no woman no cry song about",
+        "llm_response": "The \"No Woman, No Cry\" song from Bob Marley's album \"Live!\" is primarily about stopping or avoiding violence against women.",
+        "real_answers": [
+            "growing up in the ghetto and persuading a woman that things will get better, entreating her not to cry"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 316,
+        "query": "who played jenny wilder on little house on the prairie",
+        "llm_response": "Shannen Doherty played Jenny Wilder on Little House on the Prairie.",
+        "real_answers": [
+            "Shannen Doherty"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 317,
+        "query": "who wrote the journey song don't stop believing",
+        "llm_response": "## Steve Perry",
+        "real_answers": [
+            "Steve Perry",
+            "Jonathan Cain",
+            "Neal Schon"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 318,
+        "query": "what crime is defined at california penal code section 187",
+        "llm_response": "Murder, with malice aforethought.",
+        "real_answers": [
+            "murder"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 319,
+        "query": "who made the most home runs in 1998",
+        "llm_response": "Sammy Sosa and Mark McGwire tied with 49 home runs each.",
+        "real_answers": [
+            "Mark McGwire of the St. Louis Cardinals"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 320,
+        "query": "when does the new episode of the flash",
+        "llm_response": "The Flash is a part of The Flash and Legends of Tomorrow.",
+        "real_answers": [
+            "October 10, 2017"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 321,
+        "query": "name the british novelist born in paris and trained as a doctor",
+        "llm_response": "   Mary Elizabeth Maugham (1915-1998)",
+        "real_answers": [
+            "William Somerset Maugham"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 322,
+        "query": "who was first winner of who wants to be a millionaire",
+        "llm_response": "John Carpenter.",
+        "real_answers": [
+            "John Carpenter"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 323,
+        "query": "who won season 2 rupaul's drag race",
+        "llm_response": "## Tyra Sanchez.",
+        "real_answers": [
+            "Tyra Sanchez"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 324,
+        "query": "who wrote the song the fighter keith urban",
+        "llm_response": "## Keith Urban wrote and co-wrote the song \"The Fighter\" with busbee.",
+        "real_answers": [
+            "Keith Urban",
+            "busbee"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 325,
+        "query": "blues music originated as a mixture of ___ and ____",
+        "llm_response": "Musical styles",
+        "real_answers": [
+            "ragtime",
+            "the original melodic patterns of African music"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 326,
+        "query": "when was the quote on statue of liberty added",
+        "llm_response": "The quote from Emma Lazarus's sonnet \"The New Colossus\" was added to the pedestal of the Statue of Liberty in 1903.",
+        "real_answers": [
+            "1903"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 327,
+        "query": "who was first member nominated for rajya sabha",
+        "llm_response": "The first member of Rajya Sabha was Dr. Sachchidananda Sinha, a renowned Indian jurist and politician from the state of Bihar.",
+        "real_answers": [
+            "Alladi Krishnaswamy Iyer"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 328,
+        "query": "who led the revolt against the english king",
+        "llm_response": "The revolts mentioned in the passages occurred during the following King's reigns:\n\n1. English Civil War (1642-1651)\n   - John Taylor was a prominent leader of one of the two factions that rebelled against Charles I.\n   \n2. Edwardian Revolt (1307)",
+        "real_answers": [
+            "Wat Tyler"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 329,
+        "query": "who plays gwen stacy in spider man 3",
+        "llm_response": "Bryce Dallas Howard played Gwen Stacy in The Amazing Spider-Man trilogy.",
+        "real_answers": [
+            "The character has been portrayed by Bryce Dallas Howard in the 2007 film Spider-Man 3"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 330,
+        "query": "what are the four stars on the chicago flag",
+        "llm_response": "The four red stars on the Chicago city flag stand for:\n\n1. France (1693)\n2. Great Britain (1763)\n3. Virginia (1778)\n4. Illinois (since 1818)",
+        "real_answers": [
+            "symbolize historical events"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 331,
+        "query": "when did the us split into north and south",
+        "llm_response": "The US split into North and South over slavery. Before Lincoln's election in November 1860, seven slave states had declared their secession and joined to form the Confederacy. This led to events leading to the American Civil War.",
+        "real_answers": [
+            "the Civil War"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 332,
+        "query": "where does the last name enriquez come from",
+        "llm_response": "The origin of the surname \"Enriquez\" is not certain, but it is believed to have originated in Spain and Portugal.\n\n*   In Spanish, the word \"enriquez\" means \"of Enrique,\" which was a common place name that reflected a person's geographical location.\n*   It is also possible that the name was derived from the Arabic word \"er-nayq,\" which means \"son of Niz,\" meaning \"son of Niz or one who lives near Niz.\"\n*   In Portugal, the name \"Enriquez\" has been recorded since the 12th century.\n*   Many families with this surname have migrated to other countries in Europe and the Americas over the centuries.\n\nOver time, the spelling of the surname \"Enriquez\" has evolved through various changes, including:\n\n1.  **Middle English**: The name was first written as \"Enreiches\" or \"Ernestz.\"\n2.  **Renaissance and Enlightenment**: It became more widely accepted in Europe during this period.\n3.  **American immigration**: Many immigrants from Spain, Portugal, and other countries with the surname \"Enriquez\" arrived in the United States during the 19th century.\n\nToday, individuals with the surname \"Enriquez\" can be found all over the world, including the United States, Canada, Latin America, Europe, and Asia.",
+        "real_answers": [
+            "son of Enrique"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 333,
+        "query": "where will the 2018 world cup final be held",
+        "llm_response": "The 2018 FIFA World Cup Final was held at Luzhniki Stadium in Moscow.",
+        "real_answers": [
+            "in Moscow at the Luzhniki Stadium"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 334,
+        "query": "what body of water was jaws filmed in",
+        "llm_response": "Martha's Vineyard.",
+        "real_answers": [
+            "Atlantic Ocean"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 335,
+        "query": "who sings ain't nothing but a gangsta party",
+        "llm_response": "Ice Cube",
+        "real_answers": [
+            "Various Artists"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 336,
+        "query": "when did they stop putting 8 track players in cars",
+        "llm_response": "Early 1970s.",
+        "real_answers": [
+            "through the early 1980s"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 337,
+        "query": "when did bill me later became paypal credit",
+        "llm_response": "Bill Me Later was acquired by PayPal in November 2008.",
+        "real_answers": [
+            "November 7, 2008,"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 338,
+        "query": "who has the homerun record in a season",
+        "llm_response": "Mark McGwire and Sammy Sosa are tied for the major league baseball single-season home run record.",
+        "real_answers": [
+            "Barry Bonds"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 339,
+        "query": "who played jacks father on without a trace",
+        "llm_response": "Jack Abbott",
+        "real_answers": [
+            "Martin Landau"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 340,
+        "query": "when was the last time the seahawks won the super bowl",
+        "llm_response": "The Seattle Seahawks won the Super Bowl in 2013.",
+        "real_answers": [
+            "2013"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 341,
+        "query": "how many times has stephen curry won the mvp award",
+        "llm_response": "## Three (3) times.",
+        "real_answers": [
+            "2"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 342,
+        "query": "who is mr blue in the hulk movie",
+        "llm_response": "Mr. Blue is actually Dr. Jonathan Byrd (also known as Blonsky) in the Hulk movie series.",
+        "real_answers": [
+            "Dr. Samuel Sterns"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 343,
+        "query": "who is the editor of the canberra times",
+        "llm_response": "## Thomas Shakespeare.",
+        "real_answers": [
+            "Grant Newton"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 344,
+        "query": "where does the ophthalmic nerve exit the skull",
+        "llm_response": "The ophthalmic nerve exits the skull at the middle of the orbit, near the orbital apex.",
+        "real_answers": [
+            "superior orbital fissure",
+            "supraorbital notch",
+            "anterior ethmoidal foramen",
+            "nasal bones"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 345,
+        "query": "where was angus thongs and perfect snogging filmed",
+        "llm_response": "The film \"Angus, Thongs and Perfect Snogging\" was primarily filmed in and around Ealing Studios in London.",
+        "real_answers": [
+            "Brighton",
+            "Eastbourne",
+            "Ealing Studios, London"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 346,
+        "query": "who gets the most medals in the winter olympics",
+        "llm_response": "   The United States leads the all-time medal table for both Summer and Winter Olympics with a combined total of 37 gold + 239 = 276 medals.",
+        "real_answers": [
+            "United States"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 347,
+        "query": "who plays steve in peter kay's car share",
+        "llm_response": "Guy Garvey plays Steve in Peter Kay's Car Share.",
+        "real_answers": [
+            "Guy Garvey"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 348,
+        "query": "when were the old and new testaments combined into the bible",
+        "llm_response": "The New Testament with condensed notes was released in 1936 as one volume, while the Old Testament was published in multiple volumes (1609, 1610) initially and 1582 as a single book.",
+        "real_answers": [
+            "400"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 349,
+        "query": "who plays the bad guy in john wick",
+        "llm_response": "## Michael Nyqvist",
+        "real_answers": [
+            "Alfie Allen"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 350,
+        "query": "where is most fresh water found on earth",
+        "llm_response": "Antarctic ice sheet.",
+        "real_answers": [
+            "glaciers, ice and snow"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 351,
+        "query": "when was the last time malaysia hosted the sea games",
+        "llm_response": "## Malaysia last hosted the Southeast Asian Games in 2017.",
+        "real_answers": [
+            "2017"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 352,
+        "query": "how many episodes of she gotta have it",
+        "llm_response": "There are 8 seasons with a total of 92 episodes.",
+        "real_answers": [
+            "Ten"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 353,
+        "query": "where does the strip loin steak come from",
+        "llm_response": "The short loin cut of beef, commonly referred to as the strip loin steak. It comes from the cow's short loin.",
+        "real_answers": [
+            "from the short loin from a cow"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 354,
+        "query": "who played roseanne's father on the show",
+        "llm_response": "John Randolph portrayed Roseanne's husband, Al Harris.",
+        "real_answers": [
+            "Al Harris"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 355,
+        "query": "where is protein broken down into amino acids",
+        "llm_response": "Gastrointestinal tract (stomach) and pancreas.",
+        "real_answers": [
+            "in the stomach"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 356,
+        "query": "who were the us presidents that were assassinated",
+        "llm_response": "1. Abraham Lincoln\n2. James A. Garfield\n3. William McKinley\n4. John F. Kennedy \n5. Andrew Jackson\n6. Franklin D. Roosevelt",
+        "real_answers": [
+            "Abraham Lincoln (the 16th President), James A. Garfield (the 20th President), William McKinley (the 25th President) and John F. Kennedy (the 35th President)"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 357,
+        "query": "who voices vic in f is for family",
+        "llm_response": "## Vic\nVic, voiced by Nick Offerman.",
+        "real_answers": [
+            "Sam Rockwell"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 358,
+        "query": "who plays sid the sloth in ice age",
+        "llm_response": "Sid the Sloth was played by John Leguizamo.",
+        "real_answers": [
+            "John Alberto Leguizamo"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 359,
+        "query": "when is have you been paying attention filmed",
+        "llm_response": "The TV show \"Have You Been Paying Attention?\" was not a part of the 2016 Logie Awards. The correct answer is that it is not mentioned in any of the provided passages, but can be found on other sources such as Wikipedia or IMDb.",
+        "real_answers": [
+            "Sundays"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 360,
+        "query": "what is the hydrophilic portion of a phospholipid molecule",
+        "llm_response": "The answer is: phosphate group",
+        "real_answers": [
+            "a hydrophilic \"head\" consisting of a phosphate group"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 361,
+        "query": "what is the new percy jackson series called",
+        "llm_response": "The new Percy Jackson series created by Rick Riordan is called \"Percy Jackson and the Demigod Diaries\".",
+        "real_answers": [
+            "The Heroes of Olympus"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 362,
+        "query": "who plays robin hood's son in once upon a time",
+        "llm_response": "The sons of Robin Hood are named: \n\n1. Roland \n2. Robin",
+        "real_answers": [
+            "Roland"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 363,
+        "query": "who win the final match of asia cup 2018",
+        "llm_response": "India won the final match of Asia Cup 2018.",
+        "real_answers": [
+            "India"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 364,
+        "query": "which indian language is known as kohinoor language",
+        "llm_response": "Kohinoor is also known as Urdu.",
+        "real_answers": [
+            "Urdu"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 365,
+        "query": "drowned valley forming and inlet of the sea",
+        "llm_response": "## Drowned Valley Forming",
+        "real_answers": [
+            "ria"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 366,
+        "query": "who is the girl singing in all of the lights",
+        "llm_response": "Rihanna",
+        "real_answers": [
+            "Rihanna"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 367,
+        "query": "when did degrassi the next generation come out",
+        "llm_response": "## Season 1 (2001-2003)\n## Season 2 \n## Season 3",
+        "real_answers": [
+            "October 14, 2001"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 368,
+        "query": "family guy stewie griffin the untold story season",
+        "llm_response": "## Stewie Griffin: The Untold Story Season 1 is available.",
+        "real_answers": [
+            "season 4 finale"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 369,
+        "query": "where is the sun located when there is a full moon",
+        "llm_response": "When there's a full moon, the Sun is in the opposite direction of the Moon.",
+        "real_answers": [
+            "Earth is located directly between the Sun and the Moon"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 370,
+        "query": "when is game of thrones season 7 starts",
+        "llm_response": "The seventh season of Game of Thrones started on July 16, 2017.",
+        "real_answers": [
+            "July 16, 2017"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 371,
+        "query": "who has the most tripple doubles in the nba",
+        "llm_response": "Oscar Robertson holds the record for the most NBA career triple-doubles, with 181.",
+        "real_answers": [
+            "Oscar Robertson"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 372,
+        "query": "who sang living in a box in the 1980s",
+        "llm_response": "The band \"Living in a Box\"",
+        "real_answers": [
+            "Living in a Box"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 373,
+        "query": "who sang i was kaiser bill's batman",
+        "llm_response": "Roger Cook and Roger Greenaway, British songwriters.",
+        "real_answers": [
+            "Die Travellers"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 374,
+        "query": "when was the first version of minecraft created",
+        "llm_response": "Minecraft: Classic \nwas released May 17, 2009.",
+        "real_answers": [
+            "18 November 2011"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 375,
+        "query": "last time the mets were in the world series",
+        "llm_response": "1966",
+        "real_answers": [
+            "1986"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 376,
+        "query": "where is fear the walking dead season 4 filmed",
+        "llm_response": "The Fear the Walking Dead seasons are primarily filmed in Austin, Texas.",
+        "real_answers": [
+            "Austin, Texas"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 377,
+        "query": "when does the next episode of overlord come out",
+        "llm_response": "The latest anime adaptation of \"Overlord\" ended in April 2018. There are no new episodes released since then.",
+        "real_answers": [
+            "July 2018"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 378,
+        "query": "where is willy wonka and the chocolate factory supposed to take place",
+        "llm_response": "Willy Wonka & the Chocolate Factory takes place in **India**.",
+        "real_answers": [
+            "an unnamed town"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 379,
+        "query": "write s.i unit of luminous intensity and temperature",
+        "llm_response": "## Celsius (\u00b0C)\n## Kelvin (K)",
+        "real_answers": [
+            "candela"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 380,
+        "query": "when did mens ski jumping become an olympic sport",
+        "llm_response": "Skiing became an Olympic sport in 1924.",
+        "real_answers": [
+            "1924"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 381,
+        "query": "what is the name of the airport in nashville tennessee",
+        "llm_response": "The Metropolitan Nashville Airport Authority.",
+        "real_answers": [
+            "Nashville International Airport"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 382,
+        "query": "what's the new pirates of the caribbean called",
+        "llm_response": "## None, there is no information provided about a new Pirates of the Caribbean film.",
+        "real_answers": [
+            "Pirates of the Caribbean: Dead Men Tell No Tales"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 383,
+        "query": "who plays donna on bold and the beautiful",
+        "llm_response": "Donna Logan is played by Jennifer Gareis.",
+        "real_answers": [
+            "Jennifer Gareis"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 384,
+        "query": "where did they get the sounds for jurassic park",
+        "llm_response": "##Passages:\n\n## Passage 1: \n- The Triceratops' vocals were created by combining Gary Rydstrom's sound of breathing into a cardboard tube.\n- Cows near his workplace at Skywalker Ranch provided additional noise to match the dinosaurs' actions.\n\n## Passage 2:\n- Prolonged pre-production and marketing efforts involved recording animal sounds like penguins in the background, as well as rain, gunshots, car crashes.",
+        "real_answers": [
+            "a mixture of various animal noises"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 385,
+        "query": "when did the nba ban high school players",
+        "llm_response": "The NBA banned high school players since 2006.",
+        "real_answers": [
+            "2006"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 386,
+        "query": "where was legends of the fall house filmed",
+        "llm_response": "The location of Legends of the Fall house (also known as Country Club Park) was a house in Los Angeles, California.",
+        "real_answers": [
+            "Ghost River Wilderness Area"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 387,
+        "query": "innermost part of the earth is called as",
+        "llm_response": "## Inner core \n The innermost part of the Earth.",
+        "real_answers": [
+            "inner core"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 388,
+        "query": "what type of reaction leads to the production of polymers",
+        "llm_response": "## Condensation reaction.",
+        "real_answers": [
+            "condensation reaction"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 389,
+        "query": "who won the the battle of bull run",
+        "llm_response": "The Confederacy won the Second Battle of Bull Run, officially known as the First Manassas.",
+        "real_answers": [
+            "Confederate forces"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 390,
+        "query": "who sings i'm gonna love you like im gonna lose you",
+        "llm_response": "John Legend.",
+        "real_answers": [
+            "American singer and songwriter Meghan Trainor"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 391,
+        "query": "when is growing up hip hop atlanta coming back on",
+        "llm_response": "Growing Up Hip Hop: Atlanta has not been renewed for a second season. The show was canceled by WE tv in January 2018, according to the passages provided.",
+        "real_answers": [
+            "January 2018"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 392,
+        "query": "who sang the song you were always on my mind",
+        "llm_response": "Gwen McCrae sang the song \"Always on My Mind\".",
+        "real_answers": [
+            "Gwen McCrae"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 393,
+        "query": "where are the andes mountains located in south america",
+        "llm_response": "The Andes Mountains are located in South America. Specifically, they extend through seven countries:\n\n1. Venezuela\n2. Colombia\n3. Ecuador\n4. Peru\n5. Bolivia\n6. Chile\n7. Argentina",
+        "real_answers": [
+            "from north to south through seven South American countries: Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile and Argentina"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 394,
+        "query": "where was the humboldtian model for engineering developed",
+        "llm_response": "The Humboldtian model for engineering did not exist.",
+        "real_answers": [
+            "the University of Berlin"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 395,
+        "query": "myplate food guide or the current usda nutrition model",
+        "llm_response": "MyPlate is the current US Department of Agriculture's (USDA) nutrition guide.",
+        "real_answers": [
+            "a food circle (i.e. a pie chart) depicting a place setting with a plate and glass divided into five food groups"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 396,
+        "query": "who sings climb every mountain in the sound of music crossword",
+        "llm_response": "No other person sings \"Climb Every Mountain\" in the Sound of Music.",
+        "real_answers": [
+            "Mother Abbess"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 397,
+        "query": "what was the name of the club in purple rain",
+        "llm_response": "The name of the club in \"Purple Rain\" is First Avenue.",
+        "real_answers": [
+            "First Avenue"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 398,
+        "query": "who does the voice for lucy in disenchantment",
+        "llm_response": "## Lucy Montgomery does not appear to be a character voiced by Lucy Montgomery in Disenchantment.",
+        "real_answers": [
+            "Eric Andre"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 399,
+        "query": "who's the voice of nani in lilo & stitch",
+        "llm_response": "Nani Pelekai, or Nani for short, is Lilo Pelekai's older sister and legal guardian.",
+        "real_answers": [
+            "Tia Carrere"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 400,
+        "query": "when was sussex divided into east and west",
+        "llm_response": "Sussex was divided into eastern and western divisions in 1974, as part of the Local Government Act 1972.",
+        "real_answers": [
+            "In 1974"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 401,
+        "query": "when did france and britain declare war on germany ww2",
+        "llm_response": "France and Britain declared war on Germany on September 3, 1939.",
+        "real_answers": [
+            "3 September 1939"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 402,
+        "query": "town in alaska that has a cat as a mayor",
+        "llm_response": "There is no mention of Alaska having cats as mayors.",
+        "real_answers": [
+            "Talkeetna"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 403,
+        "query": "i'm a celebrity get me out of here australia host",
+        "llm_response": "David O'Doherty",
+        "real_answers": [
+            "Julia Morris",
+            "Chris Brown"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 404,
+        "query": "when is the 2018 nfl season schedule released",
+        "llm_response": "The NFL season was scheduled to begin on September 6, 2018.",
+        "real_answers": [
+            "April 19, 2018"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 405,
+        "query": "which amino acid in mice was discovered to play a role in memory",
+        "llm_response": "## The answer is Glutamate (passage 1)",
+        "real_answers": [
+            "glutamate"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 406,
+        "query": "who won season six of rupaul's drag race",
+        "llm_response": "## Bianca Del Rio was the winner of RuPaul's Drag Race (season 6)",
+        "real_answers": [
+            "Roy Haylock"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 407,
+        "query": "where does the term dog fight come from",
+        "llm_response": "The word \"dogfight\" comes from medieval times, specifically during the Middle Ages. In that era, it referred to a melee or battle between two groups of people (hence \"fight\") and animals (dogs), with both sides engaging in violent combat.",
+        "real_answers": [
+            "Fly Papers, by A. E. Illingworth, in 1919"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 408,
+        "query": "who introduced the five kingdom system of classification",
+        "llm_response": "Carolus Linnaeus.",
+        "real_answers": [
+            "Robert Whittaker"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 409,
+        "query": "where was the titanic headed when it crashed",
+        "llm_response": "The Titanic crashed in the North Atlantic Ocean.",
+        "real_answers": [
+            "New York City"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 410,
+        "query": "when was the green bay packers stadium built",
+        "llm_response": "The Packers' current stadium, Lambeau Field, has undergone renovations and expansions but its original construction date is not specified.",
+        "real_answers": [
+            "1957"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 411,
+        "query": "what football team is going to las vegas",
+        "llm_response": "The teams currently playing in Las Vegas are the:\n\n1. **Las Vegas Raiders**\n2. (Note: There is no NFL team officially known as the \"Oakland Raiders\" or \"Los Angeles Raiders,\" but they do play at Alameda County Coliseum.)\n\nHowever, the Oakland Raiders relocated to Los Angeles and are now known as the Los Angeles Chargers.",
+        "real_answers": [
+            "Oakland Raiders"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 412,
+        "query": "who sang i don't wanna dance",
+        "llm_response": "The song \"I Don't Wanna Dance\" was sung by Eddy Grant.",
+        "real_answers": [
+            "Eddy Grant"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 413,
+        "query": "when did the detroit tigers win the world series",
+        "llm_response": "They won World Series championships: \n1935,1945,1968, and 1984.",
+        "real_answers": [
+            "1935",
+            "1945",
+            "1968",
+            "1984"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 414,
+        "query": "who is #1 most listened to on spotify",
+        "llm_response": "## The current most-listened-to artist on Spotify is Drake, with over 36M+ monthly listeners.",
+        "real_answers": [
+            "Ed Sheeran's"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 415,
+        "query": "when was the last time someone lived in the biltmore house",
+        "llm_response": "## Passage 2 has no information about who lives in the Biltmore House. However, according to passage 3, the Biltmore Company still operates the estate and it is privately held by them.",
+        "real_answers": [
+            "1956"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 416,
+        "query": "when did paramount announce the remastered release of star trek for tv",
+        "llm_response": "Paramount Home Entertainment announced the remastered release of Star Trek for TV in April 2013.",
+        "real_answers": [
+            "July 26, 2007"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 417,
+        "query": "when did the ipod touch first come out",
+        "llm_response": "## 2007-09-05 (1st gen)",
+        "real_answers": [
+            "September 5, 2007"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 418,
+        "query": "where is klondike gold rush national historical park",
+        "llm_response": "## Alaska and Washington, United States",
+        "real_answers": [
+            "There are four units, including three in Municipality of Skagway Borough, Alaska and a fourth in the Pioneer Square National Historic District in Seattle, Washington."
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 419,
+        "query": "who has the world record for the long jump",
+        "llm_response": "The current men's record holder for the long jump is Javier Sotomayor (Cuba) with a jump of 2.45 m (8 ft 0\u200b \u2044 in).",
+        "real_answers": [
+            "Mike Powell",
+            "Galina Chistyakova"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 420,
+        "query": "a statement describing both the requirements that must be met by a product or process",
+        "llm_response": "Product and process requirements describe what elements, functions, and necessary elements and functions for particular projects.",
+        "real_answers": [
+            "Functional (solution) requirements"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 421,
+        "query": "who led the league in sacks in 2017",
+        "llm_response": "Derrick Jones Jr.",
+        "real_answers": [
+            "Chandler Jones"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 422,
+        "query": "when does the star is born sound track come out",
+        "llm_response": "The soundtrack for \"A Star Is Born\" was released on October 5, 2018.",
+        "real_answers": [
+            "October 5, 2018"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 423,
+        "query": "the vampire diaries when does caroline become a vampire",
+        "llm_response": "Caroline becomes a vampire after waking up in the hospital, not before. She is exposed to her mother's blood and awakens with vampirism.",
+        "real_answers": [
+            "Brave New World"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 424,
+        "query": "how tall do you need to be to be a giant",
+        "llm_response": "You don't have to be taller than average to be considered a \"giant\", but the passage does not provide a specific height threshold for gigantism.",
+        "real_answers": [
+            "7 feet"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 425,
+        "query": "what are the releasing hormones from the hypothalamus",
+        "llm_response": "* Thyrotropin-releasing hormone (TRH)\n * Corticotropin-releasing hormone (CRH)\n * Growth hormone-releasing hormone (GHRH) \n           ",
+        "real_answers": [
+            "thyrotropin-releasing hormone (TRH or thyroliberin)",
+            "corticotropin-releasing hormone (CRH or corticoliberin)",
+            "gonadotropin-releasing hormone (GnRH or gonadoliberin)",
+            "growth hormone\u2013releasing hormone (GHRH or somatoliberin)"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 426,
+        "query": "who sang eagles i can't tell you why",
+        "llm_response": "Timothy B. Schmit sang \"I Can't Tell You Why\" for Eagles in 1978 and 1980.",
+        "real_answers": [
+            "Timothy B. Schmit"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 427,
+        "query": "when was the english bill of rights created",
+        "llm_response": "The English Bill of Rights was created in 1689.",
+        "real_answers": [
+            "29 January 1689"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 428,
+        "query": "why do they use john doe and jane doe",
+        "llm_response": "They are used for people who are unknown or unidentified.",
+        "real_answers": [
+            "refer to an unidentified person",
+            "a party in a legal action whose identity is being withheld officially",
+            "a hypothetical \"everyman\" in other contexts"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 429,
+        "query": "the word zion is an ancient biblical term that referred to what city",
+        "llm_response": "Zion refers to Jerusalem.",
+        "real_answers": [
+            "Jerusalem"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 430,
+        "query": "what episode does naruto use nine tails chakra",
+        "llm_response": "passage 1 and passage 2 are the same. So, I will provide answer for both passages:\n\n## Answer: \npassage 3 (Note: passage 3 is not present in the original text)\n\nSince there's no information about a specific episode where Naruto uses Nine-Tails chakra, I'll provide an empty response:\n \n(Note: Since passage 1 and 2 are repeated)",
+        "real_answers": [
+            "Two-Man Team"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 431,
+        "query": "when do two atoms represent the same element",
+        "llm_response": "Atoms of the same element have the same atomic number.",
+        "real_answers": [
+            "hydrogen (H2)",
+            "nitrogen (N2)",
+            "oxygen (O2)",
+            "fluorine (F2)",
+            "chlorine (Cl2)"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 432,
+        "query": "who won the last women's world cup",
+        "llm_response": "France won the most recent men's world cup in 2018.",
+        "real_answers": [
+            "Canada"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 433,
+        "query": "when does season 6 of impractical jokers start",
+        "llm_response": "Season 6 of Impractical Jokers started on May 1, 2018.",
+        "real_answers": [
+            "February 9, 2017"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 434,
+        "query": "name of the reindeer in santa clause 2",
+        "llm_response": "Fireball, son of Blitzen.",
+        "real_answers": [
+            "Chet"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 435,
+        "query": "where does a moment of silence come from",
+        "llm_response": "## A moment of silence is often derived from the tradition of flying flags at half-mast to show respect for those who have died.",
+        "real_answers": [
+            "Quakers"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 436,
+        "query": "who is the voice of marlin in finding dory",
+        "llm_response": "Albert Brooks.",
+        "real_answers": [
+            "Albert Lawrence Brooks"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 437,
+        "query": "who won the ncaa basketball championship in 1990",
+        "llm_response": "UNLV won the NCAA basketball championship in 1990.",
+        "real_answers": [
+            "UNLV"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 438,
+        "query": "who wrote the song tell me something good",
+        "llm_response": "Stevie Wonder.",
+        "real_answers": [
+            "Stevie Wonder"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 439,
+        "query": "what gases are in the earth's atmosphere today",
+        "llm_response": "The gases present in Earth's atmosphere as of my cut-off date (01 March 2023) include:\n\n1. Nitrogen\n2. Oxygen\n3. Argon\n4. Carbon dioxide\n5. Methane\n6. Nitrous oxide\n7. Ozone",
+        "real_answers": [
+            "By volume, dry air contains 78.09% nitrogen, 20.95% oxygen,[1] 0.93% argon, 0.04% carbon dioxide, and small amounts of other gases. Air also contains a variable amount of water vapor, on average around 1% at sea level, and 0.4% over the entire atmosphere. Air content and atmospheric pressure vary at different layers, and air suitable for use in photosynthesis by terrestrial plants and breathing of terrestrial animals is found only in Earth's troposphere and in artificial atmospheres."
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 440,
+        "query": "who was the second president to be impeached",
+        "llm_response": "Andrew Johnson.",
+        "real_answers": [
+            "Clinton"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 441,
+        "query": "when did dukes of hazzard go off air",
+        "llm_response": "The Dukes of Hazzard originally aired on CBS from January 26, 1979, to February 8, 1985.",
+        "real_answers": [
+            "February 8, 1985"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 442,
+        "query": "who is the current health minister of ghana",
+        "llm_response": "The information provided does not include specific details about the current Health Minister of Ghana. However, I can suggest some possible sources where you may be able to find this information:\n\n1. Government website: You can check the official website of the Government of Ghana or the Ministry of Health's website for the most up-to-date information on the current minister and their portfolio.\n2. News articles: You can search online news articles from reputable sources such as The New York Times, BBC News, or Ghanaian newspapers to find out who the current Health Minister is.\n3. Government press releases: The government may have released a statement or press release announcing the appointment of a new minister, which would likely include information about their background and qualifications.\n\nBased on the information provided in the text, it appears that there are several individuals listed as ministers, including:\n\n* Dr. Anthony Akoto Osei (Minister for Monitoring and Evaluation)\n* Kweku Agyemang-Manu (Minister of Monitoring and Evaluation)\n* John Peter Amewu (Minister of Sanitation and Water Resources)\n* Joseph Kofi Adda (Current Minister of Railways Development)\n\nHowever, I was unable to find information on the current Health Minister. If you have any further questions or need more specific information, please let me know!",
+        "real_answers": [
+            "Nsiah Asare (PhD)"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 443,
+        "query": "when did the greensboro sit ins take place",
+        "llm_response": "## February 1 -- July 25, 1960.",
+        "real_answers": [
+            "1960"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 444,
+        "query": "what is the largest island in the caribbean",
+        "llm_response": "The largest island in the Caribbean is Cuba, with a total area of approximately 109,884 square kilometers (42,426 square miles).",
+        "real_answers": [
+            "Cuba"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 445,
+        "query": "who is the movie the natural based on",
+        "llm_response": "The film \"The Natural\" was adapted from the novel of the same name by Bernard Malamud.",
+        "real_answers": [
+            "Philadelphia Phillies player Eddie Waitkus"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 446,
+        "query": "when do rick and morty season 3 episodes come out",
+        "llm_response": "Rick and Morty Season 3 started airing on October 1, 2017. Episodes 9 of the season ended on September 30, 2017.",
+        "real_answers": [
+            "April 1 (2017-04-01)[a] \u2013 October 1, 2017"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 447,
+        "query": "how do you pronounce the letter h in english",
+        "llm_response": "The letter 'h' is pronounced as a single sound, often represented by the letters \"h\" or \"h\" when used in writing systems, and \"he\u026at\u0283\" (or / he\u026at\u0283/ ) in informal usage.",
+        "real_answers": [
+            "aitch",
+            "haitch"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 448,
+        "query": "where is kinsale in ireland on a map",
+        "llm_response": "Kinsale is located in County Cork, Ireland.",
+        "real_answers": [
+            "51\u00b042\u203220\u2033N 8\u00b031\u203220\u2033W\ufeff / \ufeff51.70556\u00b0N 8.52222\u00b0W"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 449,
+        "query": "when did the mens doubles and women's singles events begin",
+        "llm_response": "The men's doubles event of the Australian Open began in 1972.\n           The women's singles event of the Australian Open began in 1924.",
+        "real_answers": [
+            "1905"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 450,
+        "query": "you can find a nic\u2019s mac address through",
+        "llm_response": "## You can find a NIC's MAC address by looking for it in the device's documentation or on the device itself.",
+        "real_answers": [
+            "such as the card's read-only memory or some other firmware mechanism. If assigned by the manufacturer, a MAC address usually encodes the manufacturer's registered identification number and may be referred to as the burned-in address (BIA). It may also be known as an Ethernet hardware address (EHA), hardware address or physical address (not to be confused with a memory physical address). This can be contrasted to a programmed address, where the host device issues commands to the NIC to use an arbitrary address."
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 451,
+        "query": "what foreign policy did the us institute to stop the spread of communism",
+        "llm_response": "The U.S. institutes' primary goal was to prevent communist expansion, as it is best known for its \"containment\" policy to contain or deter communism.",
+        "real_answers": [
+            "Containment"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 452,
+        "query": "which allied nation dropped the atomic bomb on japan",
+        "llm_response": "The United States dropped the atomic bomb on Japan.",
+        "real_answers": [
+            "the United States"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 453,
+        "query": "what is the best selling nintendo game of all time",
+        "llm_response": "Super Mario Bros.",
+        "real_answers": [
+            "Wii Sports"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 454,
+        "query": "when is the ranch part 4 coming on",
+        "llm_response": "There is no mention in the passages about a fourth season. The passage only mentions three seasons (1-3) but does not provide information for a potential fourth season.",
+        "real_answers": [
+            "December 15, 2017"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 455,
+        "query": "what is the meaning of susmita in bengali",
+        "llm_response": "Sushmitha is a Bengali form of Susmita which means \"women having lovely smile\".",
+        "real_answers": [
+            "lovely smile"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 456,
+        "query": "where did the boo radleys get their name",
+        "llm_response": "Their name comes from Harper Lee's character Boo Radley.",
+        "real_answers": [
+            "from the character Boo Radley in Harper Lee's 1960 novel, To Kill a Mockingbird."
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 457,
+        "query": "who has won the most men's singles titles at wimbledon in the open era",
+        "llm_response": "None of the given players (Federer, Laver, Budge, Emerson) have won more than 8 Wimbledon titles.",
+        "real_answers": [
+            "Roger Federer"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 458,
+        "query": "who sings you're all i need to get by",
+        "llm_response": "Tammi Terrell and Marvin Gaye",
+        "real_answers": [
+            "Marvin Gaye and Tammi Terrell"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 459,
+        "query": "who was the first president of the nbew",
+        "llm_response": "Edwin D. Hill (2001 -- 2015)",
+        "real_answers": [
+            "Henry Miller"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 460,
+        "query": "who faught the famous battle on the banks of jhelum river",
+        "llm_response": "Alexander the Great and King Porus of the Paurava kingdom fought the famous Battle of the Hydaspes.",
+        "real_answers": [
+            "East India Company",
+            "Sikh Empire"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 461,
+        "query": "who sang the song i like to move it",
+        "llm_response": "Danny Jacobs and Chris Rock sang \"I Like to Move It\" in different versions of the song.",
+        "real_answers": [
+            "Reel 2 Real"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 462,
+        "query": "who sings the song running down the dream",
+        "llm_response": "Tom Petty",
+        "real_answers": [
+            "Tom Petty"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 463,
+        "query": "who does the voice of the food critic in ratatouille",
+        "llm_response": "## Peter Sohn (voice of Anton Ego)",
+        "real_answers": [
+            "Peter O'Toole"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 464,
+        "query": "when did the singer of linkin park die",
+        "llm_response": "Chester Bennington, lead singer of Linkin Park, died on July 20, 2017.",
+        "real_answers": [
+            "July 20, 2017"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 465,
+        "query": "who played young george in it's a wonderful life",
+        "llm_response": "Mary and Violet Johnson played the role of George Bailey as children.",
+        "real_answers": [
+            "Robert James Anderson"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 466,
+        "query": "what was the costliest natural disaster in u.s. history",
+        "llm_response": "Charley was the second-costliest hurricane in U.S. history, with a total estimated damage of $15.1 billion.",
+        "real_answers": [
+            "Hurricane Harvey"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 467,
+        "query": "where does the south downs way start and finish",
+        "llm_response": "The South Downs Way starts at Winchester, Hampshire.",
+        "real_answers": [
+            "from Winchester in Hampshire to Eastbourne in East Sussex"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 468,
+        "query": "who is the king in season 7 of game of thrones",
+        "llm_response": "Cersei Lannister.",
+        "real_answers": [
+            "Jon"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 469,
+        "query": "where does the story of ruth take place",
+        "llm_response": "The story of Ruth takes place in Bethlehem. Specifically, it is set in the fields of Boaz, according to Chapter 2 of the book.",
+        "real_answers": [
+            "Bethlehem"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 470,
+        "query": "who won the first women's fifa world cup",
+        "llm_response": "## Brazil won the first women's FIFA World Cup.",
+        "real_answers": [
+            "United States"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 471,
+        "query": "when was the last time the electoral college was updated",
+        "llm_response": "The last update to the Electoral College occurred in 2020.",
+        "real_answers": [
+            "1836"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 472,
+        "query": "who did the bears play in the super bowl",
+        "llm_response": "Chicago Bears.",
+        "real_answers": [
+            "The Colts"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 473,
+        "query": "garden inside the taj mahal is known as",
+        "llm_response": "## Tumbel.",
+        "real_answers": [
+            "charbagh"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 474,
+        "query": "who has kicked the longest field goal in nfl history",
+        "llm_response": "Matt Prater of the Denver Broncos has kicked the longest field goal in NFL history.",
+        "real_answers": [
+            "Matt Prater"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 475,
+        "query": "where did the rumble in the jungle take place",
+        "llm_response": "The Rumble in the Jungle took place at Stade Tata Rapha\u00ebl (now known as Stade du 20 Mai) in Kinshasa, Zaire (now the Democratic Republic of the Congo).",
+        "real_answers": [
+            "Kinshasa, Zaire (now Democratic Republic of the Congo)"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 476,
+        "query": "who played baelfire in once upon a time",
+        "llm_response": "Michael Raymond-James played Baelfire/Neal Cassidy on the ABC series Once Upon a Time.",
+        "real_answers": [
+            "Michael Raymond-James (born Michael Weverstad"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 477,
+        "query": "who made the first 4 point play in the nba",
+        "llm_response": "Sam Smith.",
+        "real_answers": [
+            "Sam Smith of the Chicago Bulls"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 478,
+        "query": "when does the second season of my hero academia come out",
+        "llm_response": "The second season of My Hero Academia premiered on April 1, 2017.",
+        "real_answers": [
+            "April 1 to September 30, 2017"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 479,
+        "query": "where is sarah off the grid house located",
+        "llm_response": "Sarah Richardson has a summer house on Georgian Bay in Ontario.",
+        "real_answers": [
+            "on Georgian Bay in Ontario"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 480,
+        "query": "who sings don't be so hard on yourself",
+        "llm_response": "Don't Be So Hard on Yourself is sung by Jessica Glynne.",
+        "real_answers": [
+            "English singer and songwriter Jess Glynne"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 481,
+        "query": "when was the last time the giants were in the world series",
+        "llm_response": "## The Giants' last World Series appearance was in 2014.",
+        "real_answers": [
+            "2016"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 482,
+        "query": "when does season 2 of scream come out",
+        "llm_response": "The second season of \"Scream\" premiered on June 30, 2015.",
+        "real_answers": [
+            "May 30, 2016"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 483,
+        "query": "when did gi joe action figure come out",
+        "llm_response": "Action Man was first introduced in 1964.",
+        "real_answers": [
+            "February 2, 1964"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 484,
+        "query": "when does the new season of heartland come on tv",
+        "llm_response": "The new season of Heartland starts airing on Sunday evenings at 8pm ET as of April 23, 2017. It is expected to continue until November 12, 2017.",
+        "real_answers": [
+            "Sunday, September 24, 2017 at its usual time"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 485,
+        "query": "actress who plays rose in jane the virgin",
+        "llm_response": "Gina Rodriguez.",
+        "real_answers": [
+            "Bridget Catherine Regan"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 486,
+        "query": "who plays rebecca in bridget jones edge of reason",
+        "llm_response": "Rebecca Gillies (also known as Rebecca) in Bridget Jones's Edge of Reason is played by Jacinda Barrett.",
+        "real_answers": [
+            "Jacinda Barrett"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 487,
+        "query": "when did we begin to stand for the national anthem",
+        "llm_response": "The National Anthem and Pledge of Allegiance were first recognized by law in the following order:\n\n1. National Anthem (no prescription for behavior): 1931 (Plaque at Bostwick building)\n2. Pledge of Allegiance (with instructions on how to stand during): June 22, 1942",
+        "real_answers": [
+            "June 22, 1942"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 488,
+        "query": "who illustrate the original copy of indian constitution",
+        "llm_response": "The artists from Shantiniketan, including Beohar Rammanohar Sinha and Nandalal Bose, illustrated the original copies.",
+        "real_answers": [
+            "artists from Shantiniketan including Beohar Rammanohar Sinha and Nandalal Bose"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 489,
+        "query": "where is game of thrones supposed to take place",
+        "llm_response": "The series primarily takes place in the continent of Westeros.",
+        "real_answers": [
+            "on the fictional continents of Westeros and Essos"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 490,
+        "query": "what song was number 1 in february 1979",
+        "llm_response": "The song that was number one on the Billboard Hot 100 chart for February 2, 1979 is \"Do That to Me One More Time\" by Captain & Tennille.",
+        "real_answers": [
+            "\"Da Ya Think I'm Sexy?\""
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 491,
+        "query": "how many solenoids are in a 4l60e transmission",
+        "llm_response": "2",
+        "real_answers": [
+            "2 shift solenoids"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 492,
+        "query": "how did the hadean eon get its name",
+        "llm_response": "The Hadean Eon got its name from Greek mythology, as it is described in Homer's epic poem \"The Iliad\" and other ancient texts. The Hades, a god of the underworld, was said to be the one who governed the Earth at this time, suggesting that he had control over the planet's surface conditions, which were considered hellish due to its intense heat and radioactive elements.",
+        "real_answers": [
+            "Hades"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 493,
+        "query": "when is the last time the united states had a full eclipse",
+        "llm_response": "The last full solar eclipse in the contiguous United States occurred on August 21, 1918.",
+        "real_answers": [
+            "August 21, 2017"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 494,
+        "query": "who has the best home run to at bat ratio",
+        "llm_response": "Mark McGwire has the highest current career ratio of 8.13.",
+        "real_answers": [
+            "Mark McGwire"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 495,
+        "query": "starch based food to be made into plastic",
+        "llm_response": "Bioplastics made from starch can be used to make a variety of products. They are often blended with biodegradable polyesters or other plastics to increase their strength and durability, while also improving their thermal stability. Examples include flower wrapping and disposable cutlery items such as bowls, pots, and straws.",
+        "real_answers": [
+            "corn starch"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 496,
+        "query": "when did season 5 of orange is the new black come out on netflix",
+        "llm_response": "## Season 5 of \"Orange Is the New Black\" was released in July, 2020.",
+        "real_answers": [
+            "June 9, 2017"
+        ],
+        "is_correct": false
+    },
+    {
+        "index": 497,
+        "query": "when did the first youtube video come out",
+        "llm_response": "Me at the zoo (April 23, 2005); YouTube.",
+        "real_answers": [
+            "April 23, 2005"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 498,
+        "query": "who won the women's french open in 2018",
+        "llm_response": "Simona Halep won the women's French Open in 2018.",
+        "real_answers": [
+            "Simona Halep"
+        ],
+        "is_correct": true
+    },
+    {
+        "index": 499,
+        "query": "when was the last time the kansas city chiefs won the superbowl",
+        "llm_response": "The Kansas City Chiefs have won two Super Bowls:\n\n1. Super Bowl IV (1970) - Defeated the Minnesota Vikings \n2. Super Bowl LIV (2020) - Defeated the San Francisco 49ers",
+        "real_answers": [
+            "January 11, 1970"
+        ],
+        "is_correct": false
+    }
+]

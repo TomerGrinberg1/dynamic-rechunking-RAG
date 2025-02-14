@@ -1,0 +1,16 @@
+{
+    "results_use_knn_False_n_neighbors_1.json": 0.422,
+    "results_use_knn_False_n_neighbors_5.json": 0.43,
+    "results_use_knn_True_n_neighbors_0_k_5.json": 0.406,
+    "results_use_knn_True_n_neighbors_1_k_3.json": 0.418,
+    "results_use_knn_True_n_neighbors_1_k_10.json": 0.478,
+    "results_use_knn_True_n_neighbors_2_k_3.json": 0.412,
+    "results_use_knn_True_n_neighbors_5_k_3.json": 0.428,
+    "results_use_knn_True_n_neighbors_5_k_10.json": 0.44,
+    "results_use_knn_True_n_neighbors_10_k_5.json": 0.414,
+    "results_use_knn_True_n_neighbors_10_k_10.json": 0.442,
+    "results_use_knn_False_n_neighbors_0.json": 0.466,
+    "results_use_knn_True_n_neighbors_2_k_5.json": 0.452,
+    "results_use_knn_False_n_neighbors_2.json": 0.47,
+    "results_use_knn_False_n_neighbors_10.json": 0.372
+}
