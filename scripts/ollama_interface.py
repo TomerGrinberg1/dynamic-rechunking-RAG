@@ -1,8 +1,10 @@
 import requests
 import json
 
+import torch
+
 class OllamaInterface:
-    def __init__(self, url="http://localhost:11434/api/chat", model_name="llama3.1"):
+    def __init__(self, url="http://localhost:11434/api/chat", model_name="llama3.2:1b"):
         self.url = url
         self.model_name = model_name
 

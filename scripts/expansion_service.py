@@ -1,6 +1,8 @@
 import nltk
 from sentence_transformers import SentenceTransformer, util
 import json
+import numpy as np
+
 class ExpansionService:
     """
     Handles expansion by neighboring passages and optional query-focused re-chunking.
@@ -20,7 +22,7 @@ class ExpansionService:
         Retrieves the passages from a JSON structure using keys formatted as "<row_number>_<passage_number>", 
         then expands around passage_idx by +/- n_neighbors. Joins them into one big text string.
         """
-        with open("/home/tomer/learning/dynamic-rechunking-RAG/data/5000_passage_to_location.json", "r") as file:
+        with open("/home/student/dynamic-rechunking-RAG/data/5000_passage_to_location.json", "r") as file:
             all_passages = json.load(file)
 
         expanded_list = []
@@ -37,27 +39,35 @@ class ExpansionService:
         expanded_text = "\n".join(expanded_list)  # or "\n\n" if you want more separation
         return expanded_text
 
-    def query_focused_rechunk(self, query: str, text: str, threshold: float = 0.8) -> str:
+    def query_focused_rechunk(self, query: str, text: str, threshold: float = 0.8, use_knn: bool = False, k: int = 5) -> str:
         """
         Splits the expanded text into sentences, scores each for relevance to the query,
-        and keeps only those above a similarity threshold.
+        and either keeps those above a similarity threshold or selects the top-K nearest sentences.
         """
         sentences = nltk.sent_tokenize(text)
         
-        # If using E5, might prefix the query with "query: " and each passage with "passage: "
+        # Encode query and sentences
         query_emb = self.sim_model.encode([f"query: {query}"], convert_to_tensor=True)
         sent_embs = self.sim_model.encode(
-            [f"passage: {s}" for s in sentences],
-            convert_to_tensor=True
+            [f"passage: {s}" for s in sentences], convert_to_tensor=True
         )
-
+        
         # Compute cosine similarity
         scores = util.cos_sim(query_emb, sent_embs)[0].cpu().numpy()
+        
+        if use_knn:
+            # Ensure k does not exceed the number of available sentences
+            k = min(k, len(scores))
+            
+            # Select top-K nearest sentences
+            top_k_indices = np.argsort(scores)[-k:][::-1]  # Get top-K indices sorted by score
+            filtered_sents = [sentences[i] for i in top_k_indices]
 
-        filtered_sents = [
-            s for s, sc in zip(sentences, scores) if sc >= threshold
-        ]
-        return "/n".join(filtered_sents)
+        else:
+            # Filter sentences based on threshold
+            filtered_sents = [s for s, sc in zip(sentences, scores) if sc >= threshold]
+        
+        return "\n".join(filtered_sents)
     
 
     def rerank_chunks(self, query: str, passages: list) -> list:

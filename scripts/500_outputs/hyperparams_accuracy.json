@@ -1,0 +1,22 @@
+{
+    "use_knn_False_n_neighbors_1": 0.0318,
+    "use_knn_True_n_neighbors_0_k_3": 0.0318,
+    "use_knn_True_n_neighbors_0_k_10": 0.0324,
+    "use_knn_True_n_neighbors_1_k_5": 0.0384,
+    "use_knn_True_n_neighbors_2_k_3": 0.0342,
+    "use_knn_True_n_neighbors_2_k_10": 0.037,
+    "use_knn_True_n_neighbors_5_k_5": 0.034,
+    "use_knn_True_n_neighbors_10_k_3": 0.03,
+    "use_knn_True_n_neighbors_10_k_10": 0.036,
+    "use_knn_False_n_neighbors_5": 0.0354,
+    "use_knn_True_n_neighbors_0_k_5": 0.0314,
+    "use_knn_True_n_neighbors_1_k_10": 0.0384,
+    "use_knn_True_n_neighbors_5_k_3": 0.033,
+    "use_knn_True_n_neighbors_10_k_5": 0.0334,
+    "use_knn_True_n_neighbors_1_k_3": 0.0334,
+    "use_knn_True_n_neighbors_5_k_10": 0.0352,
+    "use_knn_True_n_neighbors_2_k_5": 0.0364,
+    "use_knn_False_n_neighbors_0": 0.0362,
+    "use_knn_False_n_neighbors_2": 0.0376,
+    "use_knn_False_n_neighbors_10": 0.0318
+}
