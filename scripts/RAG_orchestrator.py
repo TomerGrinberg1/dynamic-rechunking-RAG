@@ -52,7 +52,7 @@ def is_real_answer_included(real_answers: list[str], llm_response: str) -> bool:
 
 # Initialize models and services
 model = SentenceTransformer('intfloat/e5-base-v2')
-pinecone_index_name = "dynamic"
+pinecone_index_name = "dynamic_triviaQA"
 pinecone_api_key = "pcsk_5SLo1E_SPpKBieD8wQRuRf9G7xfYrVWDLWUAkfRC3X5xjMpDhy7j8CH3SEen8kJiNbMjav"
 with open("keys.yaml", 'r') as stream:
     try:
@@ -67,7 +67,7 @@ retrieval_service = RetrievalService(pinecone_index_name=pinecone_index_name, pi
 expansion_service = ExpansionService()
 llm_service = OllamaInterface()
 data = retrieval_service.load_data(data_path)
-# retrieval_service.index_and_upsert_documents(data, to_index_flag=True, to_upsert_flag=True, batch_size=64)
+retrieval_service.index_and_upsert_documents(data, to_index_flag=True, to_upsert_flag=True, batch_size=64)
 queries = get_queries("/home/student/dynamic-rechunking-RAG/data/short_answer_5000_rows.parquet")
 real_answers = get_real_answer_list('/home/student/dynamic-rechunking-RAG/data/short_answer_5000_rows.parquet')
 
